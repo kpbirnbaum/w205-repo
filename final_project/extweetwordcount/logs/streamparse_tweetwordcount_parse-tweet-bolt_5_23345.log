@@ -1,0 +1,9 @@
+2017-04-25 02:42:59,909 - streamparse.storm.component - ERROR - Exception in ParseTweet.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse-2.1.4-py2.7.egg/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse-2.1.4-py2.7.egg/streamparse/storm/bolt.py", line 219, in _run
+    self.process(tup)
+  File "bolts/parse.py", line 77, in process
+    if not valid_words: return
+UnboundLocalError: local variable 'valid_words' referenced before assignment

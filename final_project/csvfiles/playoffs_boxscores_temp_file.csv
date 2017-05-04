@@ -1,0 +1,1245 @@
+id,team,player,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,+/-,PTS,position
+400950314,Chicago Bulls,N. MiroticN. MiroticPF,19,1-9,0-5,2-2,1,3,4,0,1,0,1,2,-6,4,PF
+400950314,Chicago Bulls,J. ButlerJ. ButlerSF,41,9-20,3-6,9-12,3,6,9,3,1,1,5,2,-3,30,SF
+400950314,Chicago Bulls,R. LopezR. LopezC,34,6-9,0-0,2-2,7,3,10,0,0,0,0,2,-7,14,C
+400950314,Chicago Bulls,R. RondoR. RondoPG,27,6-15,0-3,0-0,5,3,8,6,2,1,1,5,-7,12,PG
+400950314,Chicago Bulls,D. WadeD. WadeSG,34,4-12,1-2,2-2,1,4,5,6,2,2,3,2,+3,11,SG
+400950314,Chicago Bulls,B. PortisB. PortisPF,29,8-10,3-4,0-0,1,8,9,3,0,2,0,2,+12,19,PF
+400950314,Chicago Bulls,C. FelicioC. FelicioPF,14,2-3,0-0,0-0,2,2,4,0,2,0,2,1,+11,4,PF
+400950314,Chicago Bulls,P. ZipserP. ZipserSF,22,1-4,0-2,4-4,0,2,2,0,1,1,2,1,+6,6,SF
+400950314,Chicago Bulls,J. GrantJ. GrantPG,21,2-9,1-4,1-1,0,2,2,4,1,0,2,1,+11,6,PG
+400950314,Chicago Bulls,TEAM,,39-91,8-26,20-23,20,33,53,22,10,7,16,18,,106,AM
+400950314,Chicago Bulls, ,,42.9%,30.8%,87.0%,,,,,,,,,,, 
+400950314,Boston,A. JohnsonA. JohnsonPF,18,2-8,0-1,1-3,3,1,4,0,1,1,1,3,-2,5,PF
+400950314,Boston,J. CrowderJ. CrowderSF,31,4-12,1-5,0-0,2,6,8,0,1,0,0,5,-10,9,SF
+400950314,Boston,A. HorfordA. HorfordC,40,8-13,1-2,2-2,2,5,7,8,0,0,2,2,+3,19,C
+400950314,Boston,I. ThomasI. ThomasPG,38,10-18,3-7,10-12,0,6,6,6,1,0,6,3,+12,33,PG
+400950314,Boston,A. BradleyA. BradleySG,35,5-13,4-10,0-0,1,1,2,2,3,0,4,1,+6,14,SG
+400950314,Boston,J. JerebkoJ. JerebkoPF,4,0-0,0-0,0-0,0,0,0,1,0,0,0,1,+5,0,PF
+400950314,Boston,G. GreenG. GreenSF,6,0-2,0-1,1-2,0,0,0,1,0,0,0,1,-4,1,SF
+400950314,Boston,J. BrownJ. BrownSF,11,2-2,1-1,0-0,0,1,1,0,0,0,0,0,-9,5,SF
+400950314,Boston,T. ZellerT. ZellerC,3,0-1,0-0,0-0,1,1,2,0,0,0,0,1,+1,0,C
+400950314,Boston,K. OlynykK. OlynykC,23,3-8,1-4,0-0,3,1,4,3,2,3,0,1,-9,7,C
+400950314,Boston,M. SmartM. SmartPG,31,3-9,3-7,0-0,0,2,2,6,1,0,2,2,-13,9,PG
+400950314,Boston,TEAM,,37-86,14-38,14-19,12,24,36,27,9,4,15,20,,102,AM
+400950314,Boston, ,,43.0%,36.8%,73.7%,,,,,,,,,,, 
+400950321,Chicago Bulls,N. MiroticN. MiroticPF,28,5-13,3-9,0-0,2,5,7,2,0,2,1,2,+18,13,PF
+400950321,Chicago Bulls,J. ButlerJ. ButlerSF,43,8-19,1-4,5-6,1,7,8,8,4,2,3,1,+22,22,SF
+400950321,Chicago Bulls,R. LopezR. LopezC,32,8-12,0-0,2-2,6,3,9,1,2,1,0,1,+17,18,C
+400950321,Chicago Bulls,R. RondoR. RondoPG,40,5-11,0-3,1-2,2,7,9,14,5,0,3,1,+24,11,PG
+400950321,Chicago Bulls,D. WadeD. WadeSG,32,9-16,3-4,1-2,1,3,4,2,0,1,0,3,+22,22,SG
+400950321,Chicago Bulls,B. PortisB. PortisPF,9,1-1,1-1,0-0,0,3,3,0,0,0,0,1,-11,3,PF
+400950321,Chicago Bulls,C. FelicioC. FelicioPF,16,2-3,0-0,0-0,0,3,3,0,0,0,1,4,-3,4,PF
+400950321,Chicago Bulls,P. ZipserP. ZipserSF,29,6-8,2-3,2-2,0,1,1,1,0,0,2,4,-6,16,SF
+400950321,Chicago Bulls,J. GrantJ. GrantPG,6,0-3,0-1,0-0,0,0,0,0,0,0,0,0,-14,0,PG
+400950321,Chicago Bulls,M. Carter-WilliamsM. Carter-WilliamsPG,4,1-3,0-0,0-0,0,0,0,0,1,0,0,0,+1,2,PG
+400950321,Chicago Bulls,D. ValentineD. ValentineSG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400950321,Chicago Bulls,TEAM,,45-89,10-25,11-14,12,32,44,28,12,6,10,17,,111,AM
+400950321,Chicago Bulls, ,,50.6%,40.0%,78.6%,,,,,,,,,,, 
+400950321,Boston,A. JohnsonA. JohnsonPF,9,2-3,0-0,0-0,2,0,2,0,0,0,1,2,-4,4,PF
+400950321,Boston,J. CrowderJ. CrowderSF,35,6-11,2-6,2-2,1,2,3,4,0,0,2,3,-12,16,SF
+400950321,Boston,A. HorfordA. HorfordC,32,3-8,0-0,1-2,2,9,11,5,1,1,1,1,-19,7,C
+400950321,Boston,I. ThomasI. ThomasPG,42,6-15,1-5,7-13,2,2,4,2,1,0,5,2,-20,20,PG
+400950321,Boston,A. BradleyA. BradleySG,40,5-15,2-8,0-0,0,3,3,3,1,1,2,2,-22,12,SG
+400950321,Boston,J. BrownJ. BrownSF,9,1-3,0-2,0-0,1,0,1,1,0,0,2,1,-8,2,SF
+400950321,Boston,T. ZellerT. ZellerC,9,2-2,0-0,0-0,1,0,1,0,0,0,1,0,+1,4,C
+400950321,Boston,K. OlynykK. OlynykC,24,4-8,2-4,1-2,1,3,4,7,1,0,1,3,+2,11,C
+400950321,Boston,M. SmartM. SmartPG,27,6-11,1-4,0-0,1,7,8,2,2,1,1,3,-2,13,PG
+400950321,Boston,T. RozierT. RozierPG,13,2-4,1-2,0-0,0,1,1,2,0,1,0,0,+11,5,PG
+400950321,Boston,J. YoungJ. YoungSG,2,1-2,1-2,0-0,0,0,0,0,0,0,0,0,+3,3,SG
+400950321,Boston,TEAM,,38-82,10-33,11-19,11,27,38,26,6,4,16,17,,97,AM
+400950321,Boston, ,,46.3%,30.3%,57.9%,,,,,,,,,,, 
+400950323,Boston,J. CrowderJ. CrowderSF,33,6-15,2-7,2-2,1,5,6,3,1,0,1,1,+23,16,SF
+400950323,Boston,G. GreenG. GreenSF,20,3-8,2-3,0-0,0,1,1,0,0,0,0,3,+5,8,SF
+400950323,Boston,A. HorfordA. HorfordC,33,8-14,2-3,0-0,3,5,8,6,4,1,2,0,+11,18,C
+400950323,Boston,I. ThomasI. ThomasPG,31,7-18,2-7,0-0,0,2,2,9,1,0,2,1,+2,16,PG
+400950323,Boston,A. BradleyA. BradleySG,36,5-10,4-6,1-2,1,6,7,7,2,0,1,0,+22,15,SG
+400950323,Boston,J. JerebkoJ. JerebkoPF,10,3-3,0-0,0-0,0,3,3,0,0,0,1,0,-4,6,PF
+400950323,Boston,A. JohnsonA. JohnsonPF,6,1-1,0-0,0-0,0,0,0,1,0,0,0,1,+3,2,PF
+400950323,Boston,J. BrownJ. BrownSF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SF
+400950323,Boston,K. OlynykK. OlynykC,14,2-5,1-2,0-0,0,1,1,2,1,0,3,2,-1,5,C
+400950323,Boston,M. SmartM. SmartPG,29,2-5,1-3,2-3,2,4,6,5,1,1,2,1,+5,7,PG
+400950323,Boston,T. RozierT. RozierPG,23,4-6,3-5,0-0,0,3,3,0,1,0,0,2,+19,11,PG
+400950323,Boston,J. YoungJ. YoungSG,1,0-1,0-1,0-0,0,0,0,1,0,0,0,1,+0,0,SG
+400950323,Boston,TEAM,,41-86,17-37,5-7,7,30,37,34,11,2,12,12,,104,AM
+400950323,Boston, ,,47.7%,45.9%,71.4%,,,,,,,,,,, 
+400950323,Chicago Bulls,N. MiroticN. MiroticPF,26,3-7,2-4,3-3,0,6,6,3,1,1,1,4,-17,11,PF
+400950323,Chicago Bulls,J. ButlerJ. ButlerSF,39,7-21,0-4,0-0,2,5,7,0,1,1,1,2,-27,14,SF
+400950323,Chicago Bulls,R. LopezR. LopezC,21,5-7,0-0,2-2,4,2,6,0,0,1,0,0,-11,12,C
+400950323,Chicago Bulls,J. GrantJ. GrantPG,15,2-5,0-2,2-2,0,1,1,0,1,0,4,2,-15,6,PG
+400950323,Chicago Bulls,D. WadeD. WadeSG,33,6-18,0-1,6-6,0,1,1,3,1,2,1,0,-12,18,SG
+400950323,Chicago Bulls,B. PortisB. PortisPF,18,1-4,0-2,0-0,1,3,4,1,2,0,2,1,+3,2,PF
+400950323,Chicago Bulls,C. FelicioC. FelicioPF,23,1-4,0-0,0-0,5,6,11,0,0,2,1,3,-9,2,PF
+400950323,Chicago Bulls,P. ZipserP. ZipserSF,25,3-7,2-5,2-2,1,5,6,1,0,0,2,0,-6,10,SF
+400950323,Chicago Bulls,J. LauvergneJ. LauvergneC,4,0-1,0-1,0-0,1,0,1,2,0,0,0,0,+3,0,C
+400950323,Chicago Bulls,M. Carter-WilliamsM. Carter-WilliamsPG,23,1-5,0-0,0-0,1,3,4,3,1,1,3,3,-3,2,PG
+400950323,Chicago Bulls,C. PayneC. PaynePG,4,1-2,1-1,0-0,0,1,1,0,0,0,1,0,+3,3,PG
+400950323,Chicago Bulls,A. MorrowA. MorrowSG,4,2-2,0-0,0-0,0,0,0,0,0,0,0,0,+3,4,SG
+400950323,Chicago Bulls,D. ValentineD. ValentineSG,4,1-1,1-1,0-0,0,4,4,1,0,0,1,0,+3,3,SG
+400950323,Chicago Bulls,TEAM,,33-84,6-21,15-15,15,37,52,14,7,8,17,15,,87,AM
+400950323,Chicago Bulls, ,,39.3%,28.6%,100.0%,,,,,,,,,,, 
+400950325,Boston,J. CrowderJ. CrowderSF,40,5-9,1-4,0-0,0,2,2,1,2,0,1,4,+5,11,SF
+400950325,Boston,G. GreenG. GreenSF,23,7-13,4-9,0-0,2,5,7,0,0,0,1,1,+4,18,SF
+400950325,Boston,A. HorfordA. HorfordC,36,6-11,1-3,2-2,1,11,12,4,1,1,1,1,+5,15,C
+400950325,Boston,I. ThomasI. ThomasPG,36,10-21,1-9,12-13,0,4,4,7,1,0,5,4,+17,33,PG
+400950325,Boston,A. BradleyA. BradleySG,34,3-9,1-6,1-2,1,0,1,2,1,0,3,3,+2,8,SG
+400950325,Boston,J. JerebkoJ. JerebkoPF,10,0-3,0-1,2-2,2,1,3,2,0,1,0,2,+1,2,PF
+400950325,Boston,J. BrownJ. BrownSF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0,SF
+400950325,Boston,K. OlynykK. OlynykC,16,4-4,1-1,1-3,0,3,3,0,1,1,0,4,+5,10,C
+400950325,Boston,M. SmartM. SmartPG,33,2-8,1-2,0-0,5,4,9,6,1,1,2,5,+9,5,PG
+400950325,Boston,T. RozierT. RozierPG,11,1-4,0-2,0-0,0,1,1,0,0,0,0,0,+0,2,PG
+400950325,Boston,TEAM,,38-82,10-37,18-22,11,31,42,22,7,4,13,24,,104,AM
+400950325,Boston, ,,46.3%,27.0%,81.8%,,,,,,,,,,, 
+400950325,Chicago Bulls,N. MiroticN. MiroticPF,34,4-11,2-8,3-3,0,7,7,1,1,0,1,4,-5,13,PF
+400950325,Chicago Bulls,J. ButlerJ. ButlerSF,46,7-16,0-3,19-23,1,4,5,9,1,0,1,4,-4,33,SF
+400950325,Chicago Bulls,R. LopezR. LopezC,22,4-8,0-0,0-0,6,1,7,0,0,0,2,2,-4,8,C
+400950325,Chicago Bulls,J. GrantJ. GrantPG,5,0-3,0-1,0-0,0,0,0,1,0,0,0,0,-10,0,PG
+400950325,Chicago Bulls,D. WadeD. WadeSG,38,5-12,0-2,1-1,1,5,6,2,1,2,2,2,-5,11,SG
+400950325,Chicago Bulls,B. PortisB. PortisPF,23,4-7,0-1,0-0,1,7,8,1,0,1,1,1,-3,8,PF
+400950325,Chicago Bulls,C. FelicioC. FelicioPF,10,1-1,0-0,1-2,0,3,3,0,0,0,1,4,-3,3,PF
+400950325,Chicago Bulls,P. ZipserP. ZipserSF,14,0-2,0-1,0-0,1,2,3,0,0,0,1,1,-8,0,SF
+400950325,Chicago Bulls,J. LauvergneJ. LauvergneC,7,3-6,0-1,0-0,2,1,3,1,0,0,1,1,-3,6,C
+400950325,Chicago Bulls,M. Carter-WilliamsM. Carter-WilliamsPG,8,0-0,0-0,0-0,0,0,0,1,0,0,2,2,-11,0,PG
+400950325,Chicago Bulls,I. CanaanI. CanaanPG,34,4-10,3-7,2-4,0,2,2,3,2,0,0,2,+11,13,PG
+400950325,Chicago Bulls,TEAM,,32-76,5-24,26-33,12,32,44,19,5,3,12,23,,95,AM
+400950325,Chicago Bulls, ,,42.1%,20.8%,78.8%,,,,,,,,,,, 
+400950387,Chicago Bulls,N. MiroticN. MiroticPF,35,2-6,2-6,0-2,0,4,4,2,1,0,0,3,-5,6,PF
+400950387,Chicago Bulls,J. ButlerJ. ButlerSF,39,6-15,2-4,0-1,0,8,8,6,0,1,2,0,-11,14,SF
+400950387,Chicago Bulls,R. LopezR. LopezC,29,6-7,0-0,2-2,3,3,6,4,1,3,3,5,-4,14,C
+400950387,Chicago Bulls,I. CanaanI. CanaanPG,36,6-11,1-5,0-0,0,2,2,0,1,0,4,3,-13,13,PG
+400950387,Chicago Bulls,D. WadeD. WadeSG,35,7-18,2-6,10-10,2,9,11,8,0,1,4,0,-1,26,SG
+400950387,Chicago Bulls,B. PortisB. PortisPF,12,1-4,1-3,0-0,0,2,2,0,0,0,2,1,-8,3,PF
+400950387,Chicago Bulls,C. FelicioC. FelicioPF,15,3-4,0-0,0-0,0,4,4,2,1,0,1,3,-13,6,PF
+400950387,Chicago Bulls,P. ZipserP. ZipserSF,18,2-3,1-2,0-0,0,3,3,0,0,0,0,4,+1,5,SF
+400950387,Chicago Bulls,M. Carter-WilliamsM. Carter-WilliamsPG,4,1-1,0-0,0-0,0,0,0,0,0,0,0,0,-4,2,PG
+400950387,Chicago Bulls,A. MorrowA. MorrowSG,17,3-5,0-0,2-2,0,2,2,2,0,0,0,2,+1,8,SG
+400950387,Chicago Bulls,D. ValentineD. ValentineSG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0,SG
+400950387,Chicago Bulls,TEAM,,37-74,9-26,14-17,5,37,42,24,4,5,16,21,,97,AM
+400950387,Chicago Bulls, ,,50.0%,34.6%,82.4%,,,,,,,,,,, 
+400950387,Boston,J. CrowderJ. CrowderSF,35,2-11,0-5,4-4,3,5,8,2,1,2,0,3,+9,8,SF
+400950387,Boston,G. GreenG. GreenSF,12,1-3,0-2,0-0,0,1,1,0,0,0,0,2,-12,2,SF
+400950387,Boston,A. HorfordA. HorfordC,34,7-11,2-4,5-5,2,5,7,9,1,0,1,2,+2,21,C
+400950387,Boston,I. ThomasI. ThomasPG,36,6-17,1-10,11-11,0,5,5,4,1,0,3,2,+13,24,PG
+400950387,Boston,A. BradleyA. BradleySG,40,11-19,2-5,0-0,2,4,6,1,1,0,0,2,+11,24,SG
+400950387,Boston,J. JerebkoJ. JerebkoPF,10,1-3,0-1,0-0,0,0,0,1,2,0,1,1,+3,2,PF
+400950387,Boston,K. OlynykK. OlynykC,20,5-9,1-4,3-3,1,4,5,0,1,0,1,2,+14,14,C
+400950387,Boston,M. SmartM. SmartPG,34,3-9,2-7,0-0,0,3,3,8,1,1,0,1,+12,8,PG
+400950387,Boston,T. RozierT. RozierPG,18,2-6,1-2,0-0,0,3,3,2,1,0,0,1,+3,5,PG
+400950387,Boston,TEAM,,38-88,9-40,23-23,8,30,38,27,9,3,6,16,,108,AM
+400950387,Boston, ,,43.2%,22.5%,100.0%,,,,,,,,,,, 
+400950389,Boston,J. CrowderJ. CrowderSF,28,4-8,3-6,1-2,0,5,5,1,1,0,1,0,+26,12,SF
+400950389,Boston,G. GreenG. GreenSF,27,6-13,3-8,1-1,0,2,2,3,0,0,2,1,+23,16,SF
+400950389,Boston,A. HorfordA. HorfordC,27,5-5,1-1,1-2,1,5,6,7,0,0,0,1,+25,12,C
+400950389,Boston,I. ThomasI. ThomasPG,26,4-11,1-7,3-4,0,5,5,6,1,0,1,3,+24,12,PG
+400950389,Boston,A. BradleyA. BradleySG,31,9-12,3-4,2-4,3,2,5,3,0,0,0,2,+25,23,SG
+400950389,Boston,J. JerebkoJ. JerebkoPF,19,1-4,1-3,0-0,0,4,4,4,1,1,2,1,-1,3,PF
+400950389,Boston,J. BrownJ. BrownSF,7,3-7,0-2,0-1,0,2,2,0,0,0,1,0,-4,6,SF
+400950389,Boston,T. ZellerT. ZellerC,5,0-1,0-0,0-0,0,2,2,0,0,0,0,0,-5,0,C
+400950389,Boston,K. OlynykK. OlynykC,19,3-8,0-2,0-0,1,5,6,0,0,2,1,3,-1,6,C
+400950389,Boston,M. SmartM. SmartPG,25,2-6,2-3,0-0,1,3,4,2,3,1,1,1,+5,6,PG
+400950389,Boston,T. RozierT. RozierPG,22,2-4,2-2,3-4,1,1,2,2,1,1,0,1,-2,9,PG
+400950389,Boston,J. YoungJ. YoungSG,4,0-1,0-1,0-0,0,0,0,0,0,0,0,1,-5,0,SG
+400950389,Boston,TEAM,,39-80,16-39,11-18,7,36,43,28,7,5,9,14,,105,AM
+400950389,Boston, ,,48.8%,41.0%,61.1%,,,,,,,,,,, 
+400950389,Chicago Bulls,N. MiroticN. MiroticPF,20,2-4,1-3,0-0,1,1,2,1,0,0,0,1,-27,5,PF
+400950389,Chicago Bulls,J. ButlerJ. ButlerSF,31,9-17,0-2,5-5,2,5,7,0,3,0,3,1,-19,23,SF
+400950389,Chicago Bulls,R. LopezR. LopezC,24,5-9,0-0,0-0,2,3,5,0,0,1,3,3,-16,10,C
+400950389,Chicago Bulls,I. CanaanI. CanaanPG,25,3-5,1-2,2-2,0,0,0,1,0,0,1,1,-27,9,PG
+400950389,Chicago Bulls,D. WadeD. WadeSG,19,1-10,0-2,0-0,1,2,3,3,1,0,0,1,-27,2,SG
+400950389,Chicago Bulls,B. PortisB. PortisPF,30,2-7,1-2,0-0,2,8,10,2,1,0,1,4,-3,5,PF
+400950389,Chicago Bulls,C. FelicioC. FelicioPF,5,0-0,0-0,0-0,0,1,1,0,0,0,1,1,+0,0,PF
+400950389,Chicago Bulls,P. ZipserP. ZipserSF,28,3-9,1-3,0-0,1,5,6,1,0,0,0,2,-10,7,SF
+400950389,Chicago Bulls,J. LauvergneJ. LauvergneC,15,1-4,0-0,6-6,2,3,5,2,0,0,1,0,+8,8,C
+400950389,Chicago Bulls,J. GrantJ. GrantPG,5,2-3,0-1,0-0,0,1,1,0,0,0,1,0,+5,4,PG
+400950389,Chicago Bulls,M. Carter-WilliamsM. Carter-WilliamsPG,14,3-6,0-1,2-4,0,0,0,2,0,0,1,1,+8,8,PG
+400950389,Chicago Bulls,A. MorrowA. MorrowSG,8,0-2,0-0,0-0,0,1,1,0,0,0,0,0,-3,0,SG
+400950389,Chicago Bulls,D. ValentineD. ValentineSG,16,1-5,0-3,0-0,0,4,4,1,0,1,1,1,+1,2,SG
+400950389,Chicago Bulls,TEAM,,32-81,4-19,15-17,11,34,45,13,5,2,13,16,,83,AM
+400950389,Chicago Bulls, ,,39.5%,21.1%,88.2%,,,,,,,,,,, 
+400952462,Toronto,S. IbakaS. IbakaPF,32,6-14,3-3,0-0,1,5,6,3,0,0,1,3,-14,15,PF
+400952462,Toronto,D. CarrollD. CarrollSF,15,1-1,1-1,0-0,1,3,4,0,0,1,0,1,-15,3,SF
+400952462,Toronto,J. ValanciunasJ. ValanciunasC,21,3-7,0-0,0-0,1,5,6,0,0,1,1,2,-21,6,C
+400952462,Toronto,K. LowryK. LowryPG,40,7-13,2-4,4-4,0,2,2,11,1,0,3,4,-13,20,PG
+400952462,Toronto,D. DeRozanD. DeRozanSG,35,7-16,0-1,5-5,0,7,7,2,1,0,4,4,-32,19,SG
+400952462,Toronto,P. SiakamP. SiakamPF,3,0-0,0-0,0-0,1,1,2,0,0,0,0,0,+9,0,PF
+400952462,Toronto,P. PattersonP. PattersonPF,22,1-7,1-5,2-2,0,2,2,4,0,1,1,1,-14,5,PF
+400952462,Toronto,P. TuckerP. TuckerSF,26,6-11,1-4,0-0,3,8,11,1,0,1,1,2,-1,13,SF
+400952462,Toronto,J. PoeltlJ. PoeltlC,3,1-2,0-0,0-0,1,0,1,0,0,1,0,0,+9,2,C
+400952462,Toronto,F. VanVleetF. VanVleetPG,3,3-3,0-0,0-0,0,0,0,0,1,0,0,0,+9,6,PG
+400952462,Toronto,D. WrightD. WrightPG,8,0-1,0-0,2-2,0,0,0,0,0,0,0,0,+14,2,PG
+400952462,Toronto,C. JosephC. JosephPG,10,1-3,0-1,0-0,0,0,0,1,0,0,0,1,+0,2,PG
+400952462,Toronto,N. PowellN. PowellSG,21,3-11,2-7,4-7,0,2,2,0,2,0,1,4,+14,12,SG
+400952462,Toronto,TEAM,,39-89,10-26,17-20,8,35,43,22,5,5,12,22,,105,AM
+400952462,Toronto, ,,43.8%,38.5%,85.0%,,,,,,,,,,, 
+400952462,Cleveland Cavaliers,K. LoveK. LovePF,32,5-13,3-6,5-6,0,9,9,1,2,1,1,2,+29,18,PF
+400952462,Cleveland Cavaliers,L. JamesL. JamesSF,41,13-23,2-5,7-8,2,8,10,4,1,1,3,2,+16,35,SF
+400952462,Cleveland Cavaliers,T. ThompsonT. ThompsonC,38,3-8,0-0,5-6,4,10,14,2,2,0,0,3,+33,11,C
+400952462,Cleveland Cavaliers,K. IrvingK. IrvingPG,35,7-16,3-8,7-9,0,2,2,10,2,0,3,1,+32,24,PG
+400952462,Cleveland Cavaliers,J. SmithJ. SmithSG,22,2-4,2-4,0-0,0,2,2,1,0,0,0,2,+15,6,SG
+400952462,Cleveland Cavaliers,D. WilliamsD. WilliamsPF,3,0-0,0-0,0-0,0,0,0,0,0,1,1,0,-9,0,PF
+400952462,Cleveland Cavaliers,C. FryeC. FryePF,12,2-5,1-3,0-0,0,0,0,0,0,1,0,1,-19,5,PF
+400952462,Cleveland Cavaliers,D. WilliamsD. WilliamsPG,18,2-5,0-2,0-0,0,4,4,4,1,0,1,2,-18,4,PG
+400952462,Cleveland Cavaliers,I. ShumpertI. ShumpertSG,18,2-5,1-2,0-0,0,4,4,3,0,0,1,1,-16,5,SG
+400952462,Cleveland Cavaliers,D. JonesD. JonesSG,3,1-1,0-0,0-0,0,0,0,0,0,0,1,2,-6,2,SG
+400952462,Cleveland Cavaliers,J. JonesJ. JonesSG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0,SG
+400952462,Cleveland Cavaliers,K. KorverK. KorverSG,17,2-5,2-4,0-0,1,0,1,1,0,0,1,2,+1,6,SG
+400952462,Cleveland Cavaliers,TEAM,,39-85,14-34,24-29,7,39,46,26,8,4,12,18,,116,AM
+400952462,Cleveland Cavaliers, ,,45.9%,41.2%,82.8%,,,,,,,,,,, 
+400950315,Indiana Pacers,T. YoungT. YoungPF,33,3-4,0-1,2-2,5,4,9,4,0,0,2,3,+6,8,PF
+400950315,Indiana Pacers,P. GeorgeP. GeorgeSF,41,9-19,6-8,5-7,0,5,5,7,1,0,4,3,-2,29,SF
+400950315,Indiana Pacers,M. TurnerM. TurnerC,32,5-12,0-0,1-2,4,4,8,1,4,1,1,4,+7,11,C
+400950315,Indiana Pacers,J. TeagueJ. TeaguePG,36,3-10,2-5,7-7,0,2,2,4,0,0,1,4,-2,15,PG
+400950315,Indiana Pacers,M. EllisM. EllisSG,28,4-8,1-3,2-2,0,4,4,1,1,0,2,2,-9,11,SG
+400950315,Indiana Pacers,L. AllenL. AllenPF,4,0-0,0-0,0-0,0,1,1,0,0,0,1,0,+0,0,PF
+400950315,Indiana Pacers,C. MilesC. MilesSF,16,2-6,1-3,0-0,0,1,1,0,0,0,0,5,-3,5,SF
+400950315,Indiana Pacers,K. SeraphinK. SeraphinC,16,4-6,0-0,0-0,3,0,3,0,0,0,1,3,-8,8,C
+400950315,Indiana Pacers,A. BrooksA. BrooksPG,7,2-3,1-2,0-0,0,1,1,1,0,0,1,0,-1,5,PG
+400950315,Indiana Pacers,L. StephensonL. StephensonSG,27,8-13,0-2,0-0,0,7,7,3,0,0,0,1,+7,16,SG
+400950315,Indiana Pacers,TEAM,,40-81,11-24,17-20,12,29,41,21,6,1,13,25,,108,AM
+400950315,Indiana Pacers, ,,49.4%,45.8%,85.0%,,,,,,,,,,, 
+400950315,Cleveland,K. LoveK. LovePF,31,5-9,2-6,5-8,1,3,4,1,0,1,3,4,-3,17,PF
+400950315,Cleveland,L. JamesL. JamesSF,43,12-20,2-3,6-9,1,5,6,13,3,0,3,3,+5,32,SF
+400950315,Cleveland,T. ThompsonT. ThompsonC,31,4-5,0-0,0-3,6,7,13,1,0,0,1,2,+3,8,C
+400950315,Cleveland,K. IrvingK. IrvingPG,39,11-27,1-9,0-1,0,3,3,6,2,1,2,3,+3,23,PG
+400950315,Cleveland,J. SmithJ. SmithSG,37,2-4,1-3,1-2,1,2,3,1,0,0,2,2,+2,6,SG
+400950315,Cleveland,C. FryeC. FryePF,16,4-5,3-4,0-0,0,2,2,2,0,0,0,1,-3,11,PF
+400950315,Cleveland,R. JeffersonR. JeffersonSF,18,1-3,1-1,2-4,0,1,1,1,1,0,0,3,+3,5,SF
+400950315,Cleveland,D. WilliamsD. WilliamsPG,10,2-4,1-2,0-0,0,0,0,1,0,0,0,1,-1,5,PG
+400950315,Cleveland,K. KorverK. KorverSG,15,1-1,0-0,0-0,1,1,2,0,1,0,0,0,-4,2,SG
+400950315,Cleveland,TEAM,,42-78,11-28,14-27,10,24,34,26,7,2,11,19,,109,AM
+400950315,Cleveland, ,,53.8%,39.3%,51.9%,,,,,,,,,,, 
+400950394,Indiana Pacers,T. YoungT. YoungPF,33,7-11,0-0,2-6,3,0,3,1,6,0,0,4,-4,16,PF
+400950394,Indiana Pacers,P. GeorgeP. GeorgeSF,42,10-20,4-10,8-9,1,7,8,7,1,1,4,3,-7,32,SF
+400950394,Indiana Pacers,M. TurnerM. TurnerC,37,3-10,0-1,0-0,1,4,5,2,1,2,1,2,-2,6,C
+400950394,Indiana Pacers,J. TeagueJ. TeaguePG,35,8-12,2-3,5-5,0,4,4,4,1,0,3,3,-4,23,PG
+400950394,Indiana Pacers,M. EllisM. EllisSG,25,1-4,0-1,0-0,1,1,2,3,1,0,1,0,-4,2,SG
+400950394,Indiana Pacers,L. AllenL. AllenPF,5,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+6,0,PF
+400950394,Indiana Pacers,C. MilesC. MilesSF,16,4-7,1-4,0-0,1,1,2,1,2,0,2,4,-3,9,SF
+400950394,Indiana Pacers,K. SeraphinK. SeraphinC,11,3-6,0-0,0-0,1,3,4,1,0,0,2,1,-4,6,C
+400950394,Indiana Pacers,G. Robinson IIIG. Robinson IIISG,9,1-1,1-1,1-2,0,2,2,0,0,0,0,0,-5,4,SG
+400950394,Indiana Pacers,L. StephensonL. StephensonSG,26,6-13,0-0,1-1,1,1,2,4,2,0,0,4,-3,13,SG
+400950394,Indiana Pacers,TEAM,,43-84,8-20,17-23,9,24,33,23,14,3,13,21,,111,AM
+400950394,Indiana Pacers, ,,51.2%,40.0%,73.9%,,,,,,,,,,, 
+400950394,Cleveland,K. LoveK. LovePF,39,6-7,3-4,12-12,1,10,11,3,0,1,2,4,+17,27,PF
+400950394,Cleveland,L. JamesL. JamesSF,42,11-20,0-2,3-6,0,10,10,7,4,4,8,2,+6,25,SF
+400950394,Cleveland,T. ThompsonT. ThompsonC,32,2-5,0-0,0-0,5,5,10,1,0,2,3,1,-4,4,C
+400950394,Cleveland,K. IrvingK. IrvingPG,34,14-24,4-10,5-5,0,2,2,2,1,0,4,4,+0,37,PG
+400950394,Cleveland,J. SmithJ. SmithSG,18,1-3,1-2,0-0,0,0,0,0,0,0,1,0,-4,3,SG
+400950394,Cleveland,C. FryeC. FryePF,13,1-4,1-3,0-0,0,2,2,1,0,1,0,0,+0,3,PF
+400950394,Cleveland,R. JeffersonR. JeffersonSF,11,1-2,0-1,0-0,1,0,1,1,0,0,0,1,-1,2,SF
+400950394,Cleveland,D. WilliamsD. WilliamsPG,16,3-4,3-4,0-0,0,0,0,2,0,0,0,1,+4,9,PG
+400950394,Cleveland,I. ShumpertI. ShumpertSG,20,2-3,1-2,0-0,0,0,0,0,1,0,0,3,+2,5,SG
+400950394,Cleveland,K. KorverK. KorverSG,14,1-4,0-3,0-0,0,1,1,2,0,0,0,0,+10,2,SG
+400950394,Cleveland,TEAM,,42-76,13-31,20-23,7,30,37,19,6,8,18,16,,117,AM
+400950394,Cleveland, ,,55.3%,41.9%,87.0%,,,,,,,,,,, 
+400950396,Cleveland,K. LoveK. LovePF,27,4-12,3-7,2-2,0,6,6,1,0,0,1,1,+5,13,PF
+400950396,Cleveland,L. JamesL. JamesSF,45,14-27,6-12,7-14,1,12,13,12,1,2,3,4,+13,41,SF
+400950396,Cleveland,T. ThompsonT. ThompsonC,28,4-7,0-0,1-2,7,3,10,0,0,3,1,2,+0,9,C
+400950396,Cleveland,K. IrvingK. IrvingPG,28,4-17,1-6,4-5,0,2,2,4,0,0,3,1,-15,13,PG
+400950396,Cleveland,J. SmithJ. SmithSG,31,4-9,4-8,1-2,0,2,2,2,0,0,0,3,+13,13,SG
+400950396,Cleveland,C. FryeC. FryePF,19,4-7,2-5,3-3,0,4,4,1,2,0,0,2,+12,13,PF
+400950396,Cleveland,R. JeffersonR. JeffersonSF,4,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-12,0,SF
+400950396,Cleveland,D. WilliamsD. WilliamsPG,22,1-1,1-1,2-2,0,1,1,2,1,1,0,3,+17,5,PG
+400950396,Cleveland,I. ShumpertI. ShumpertSG,14,0-0,0-0,0-0,0,2,2,0,0,1,0,4,-3,0,SG
+400950396,Cleveland,D. JonesD. JonesSG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-2,0,SG
+400950396,Cleveland,K. KorverK. KorverSG,22,4-7,4-5,0-0,0,0,0,1,2,0,0,2,-3,12,SG
+400950396,Cleveland,TEAM,,39-87,21-44,20-30,8,32,40,23,6,7,8,23,,119,AM
+400950396,Cleveland, ,,44.8%,47.7%,66.7%,,,,,,,,,,, 
+400950396,Indiana Pacers,T. YoungT. YoungPF,39,5-10,1-2,0-0,10,4,14,3,0,1,3,3,-11,11,PF
+400950396,Indiana Pacers,C. MilesC. MilesSF,25,3-6,1-4,2-2,2,0,2,0,0,0,0,1,-12,9,SF
+400950396,Indiana Pacers,P. GeorgeP. GeorgeSF,45,10-28,5-15,11-11,2,13,15,9,1,0,1,4,-10,36,SF
+400950396,Indiana Pacers,M. TurnerM. TurnerC,31,3-12,0-3,0-0,1,4,5,0,2,2,1,5,-4,6,C
+400950396,Indiana Pacers,J. TeagueJ. TeaguePG,33,5-11,4-6,1-3,0,3,3,7,1,0,1,3,-3,15,PG
+400950396,Indiana Pacers,K. SeraphinK. SeraphinC,17,3-8,0-0,5-7,2,3,5,3,0,1,1,4,-1,11,C
+400950396,Indiana Pacers,L. StephensonL. StephensonSG,24,4-12,3-7,2-2,0,6,6,1,0,0,2,0,+8,13,SG
+400950396,Indiana Pacers,G. Robinson IIIG. Robinson IIISG,9,2-2,1-1,0-0,0,1,1,1,0,0,0,0,+1,5,SG
+400950396,Indiana Pacers,M. EllisM. EllisSG,18,3-6,1-3,1-1,0,1,1,1,0,1,0,3,+7,8,SG
+400950396,Indiana Pacers,TEAM,,38-95,16-41,22-26,17,35,52,25,4,5,9,23,,114,AM
+400950396,Indiana Pacers, ,,40.0%,39.0%,84.6%,,,,,,,,,,, 
+400950399,Cleveland,K. LoveK. LovePF,35,2-13,1-5,0-0,5,11,16,3,0,1,4,1,+3,5,PF
+400950399,Cleveland,L. JamesL. JamesSF,45,13-25,1-3,6-9,0,10,10,4,4,2,4,1,+4,33,SF
+400950399,Cleveland,T. ThompsonT. ThompsonC,34,2-6,0-0,2-2,7,4,11,1,1,0,1,3,-1,6,C
+400950399,Cleveland,K. IrvingK. IrvingPG,37,10-25,1-7,7-7,2,0,2,0,1,3,1,2,+4,28,PG
+400950399,Cleveland,J. SmithJ. SmithSG,29,2-4,1-3,0-0,0,2,2,0,2,1,2,3,-2,5,SG
+400950399,Cleveland,C. FryeC. FryePF,13,2-4,1-3,2-2,0,1,1,2,0,1,0,0,+0,7,PF
+400950399,Cleveland,D. WilliamsD. WilliamsPG,13,4-4,2-2,4-5,1,1,2,1,0,0,0,4,+0,14,PG
+400950399,Cleveland,I. ShumpertI. ShumpertSG,17,1-4,1-3,0-0,0,1,1,0,1,0,0,1,+5,3,SG
+400950399,Cleveland,K. KorverK. KorverSG,18,1-5,1-5,2-2,0,3,3,0,0,0,1,0,+7,5,SG
+400950399,Cleveland,TEAM,,37-90,9-31,23-27,15,33,48,11,9,8,13,15,,106,AM
+400950399,Cleveland, ,,41.1%,29.0%,85.2%,,,,,,,,,,, 
+400950399,Indiana Pacers,T. YoungT. YoungPF,34,6-14,0-1,1-2,4,6,10,2,2,0,1,1,-4,13,PF
+400950399,Indiana Pacers,C. MilesC. MilesSF,25,2-5,2-5,0-0,1,2,3,0,0,1,0,2,+7,6,SF
+400950399,Indiana Pacers,P. GeorgeP. GeorgeSF,44,5-21,3-9,2-3,2,5,7,6,4,1,4,3,-6,15,SF
+400950399,Indiana Pacers,M. TurnerM. TurnerC,33,8-10,0-2,4-6,0,9,9,0,0,0,3,4,+8,20,C
+400950399,Indiana Pacers,J. TeagueJ. TeaguePG,39,6-12,1-3,2-3,0,4,4,10,2,3,3,2,-3,15,PG
+400950399,Indiana Pacers,L. AllenL. AllenPF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,PF
+400950399,Indiana Pacers,K. SeraphinK. SeraphinC,15,2-6,0-0,0-0,2,0,2,0,0,1,0,2,-12,4,C
+400950399,Indiana Pacers,L. StephensonL. StephensonSG,30,9-15,4-9,0-1,0,6,6,3,0,0,2,6,-3,22,SG
+400950399,Indiana Pacers,G. Robinson IIIG. Robinson IIISG,13,3-3,0-0,0-0,0,0,0,0,0,0,0,2,+1,6,SG
+400950399,Indiana Pacers,M. EllisM. EllisSG,6,0-2,0-1,1-2,0,1,1,0,0,0,1,0,-8,1,SG
+400950399,Indiana Pacers,TEAM,,41-88,10-30,10-17,9,33,42,21,8,6,14,22,,102,AM
+400950399,Indiana Pacers, ,,46.6%,33.3%,58.8%,,,,,,,,,,, 
+400950316,Milwaukee Bucks,T. MakerT. MakerPF,15,2-2,0-0,0-0,1,2,3,0,1,3,1,2,+3,4,PF
+400950316,Milwaukee Bucks,G. AntetokounmpoG. AntetokounmpoSF,38,13-18,0-2,2-5,0,8,8,3,2,1,1,4,+10,28,SF
+400950316,Milwaukee Bucks,T. SnellT. SnellSG,24,4-11,3-7,0-0,1,3,4,3,0,0,0,3,+16,11,SG
+400950316,Milwaukee Bucks,M. BrogdonM. BrogdonSG,34,6-13,4-7,0-0,1,5,6,2,0,1,1,3,+17,16,SG
+400950316,Milwaukee Bucks,K. MiddletonK. MiddletonSG,41,4-15,0-2,2-2,0,2,2,9,1,0,0,4,+27,10,SG
+400950316,Milwaukee Bucks,S. HawesS. HawesPF,7,1-3,1-1,0-0,1,1,2,0,0,0,0,0,-4,3,PF
+400950316,Milwaukee Bucks,M. TeletovicM. TeletovicPF,6,0-2,0-1,0-0,0,0,0,0,0,0,0,2,-6,0,PF
+400950316,Milwaukee Bucks,M. BeasleyM. BeasleySF,6,0-0,0-0,0-0,0,1,1,1,0,0,0,1,-6,0,SF
+400950316,Milwaukee Bucks,G. MonroeG. MonroeC,26,5-11,0-0,4-4,5,10,15,2,1,0,1,4,+15,14,C
+400950316,Milwaukee Bucks,M. DellavedovaM. DellavedovaPG,32,3-9,1-3,4-4,0,1,1,0,0,0,1,0,+6,11,PG
+400950316,Milwaukee Bucks,R. VaughnR. VaughnSG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0,SG
+400950316,Milwaukee Bucks,J. TerryJ. TerrySG,9,0-1,0-0,0-0,0,1,1,2,0,0,0,0,-4,0,SG
+400950316,Milwaukee Bucks,TEAM,,38-85,9-23,12-15,9,34,43,22,5,5,5,23,,97,AM
+400950316,Milwaukee Bucks, ,,44.7%,39.1%,80.0%,,,,,,,,,,, 
+400950316,Toronto,S. IbakaS. IbakaPF,36,8-14,1-4,2-4,3,11,14,0,0,3,1,2,-16,19,PF
+400950316,Toronto,D. CarrollD. CarrollSF,24,2-3,0-1,1-3,0,4,4,0,0,1,1,4,-15,5,SF
+400950316,Toronto,J. ValanciunasJ. ValanciunasC,24,2-5,0-0,5-7,0,9,9,0,0,0,1,3,-14,9,C
+400950316,Toronto,K. LowryK. LowryPG,34,2-11,0-6,0-1,1,1,2,6,2,0,1,4,-22,4,PG
+400950316,Toronto,D. DeRozanD. DeRozanSG,39,7-21,0-2,13-14,0,8,8,1,0,0,1,3,-16,27,SG
+400950316,Toronto,P. PattersonP. PattersonPF,16,1-3,1-3,0-0,0,3,3,1,0,0,1,0,-3,3,PF
+400950316,Toronto,P. TuckerP. TuckerSF,29,2-7,1-4,2-2,2,2,4,1,0,0,0,2,+1,7,SF
+400950316,Toronto,L. NogueiraL. NogueiraC,1,0-1,0-0,1-2,2,1,3,0,0,0,0,0,+4,1,C
+400950316,Toronto,J. PoeltlJ. PoeltlC,2,0-0,0-0,0-0,0,0,0,0,1,0,0,0,+4,0,C
+400950316,Toronto,F. VanVleetF. VanVleetPG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+4,0,PG
+400950316,Toronto,D. WrightD. WrightPG,2,0-1,0-1,0-0,0,0,0,1,0,0,0,0,+4,0,PG
+400950316,Toronto,C. JosephC. JosephPG,27,1-5,1-1,0-0,0,0,0,5,0,0,3,2,+1,3,PG
+400950316,Toronto,N. PowellN. PowellSG,6,2-4,1-1,0-0,0,0,0,0,0,0,1,0,-2,5,SG
+400950316,Toronto,TEAM,,27-75,5-23,24-33,8,39,47,15,3,4,10,21,,83,AM
+400950316,Toronto, ,,36.0%,21.7%,72.7%,,,,,,,,,,, 
+400950408,Milwaukee Bucks,T. MakerT. MakerPF,20,2-7,1-2,0-0,2,1,3,4,1,2,1,4,-1,5,PF
+400950408,Milwaukee Bucks,G. AntetokounmpoG. AntetokounmpoSF,42,9-24,1-3,5-7,6,9,15,7,2,0,4,3,+6,24,SF
+400950408,Milwaukee Bucks,T. SnellT. SnellSG,31,5-7,4-6,0-0,0,2,2,0,0,0,0,1,-2,14,SG
+400950408,Milwaukee Bucks,M. BrogdonM. BrogdonSG,37,3-11,1-3,0-0,1,3,4,3,0,1,2,1,-5,7,SG
+400950408,Milwaukee Bucks,K. MiddletonK. MiddletonSG,41,6-14,3-3,5-5,0,5,5,2,1,0,3,2,-9,20,SG
+400950408,Milwaukee Bucks,S. HawesS. HawesPF,6,1-2,0-1,0-0,1,0,1,1,0,1,0,2,+2,2,PF
+400950408,Milwaukee Bucks,M. TeletovicM. TeletovicPF,13,0-2,0-1,0-0,0,2,2,0,0,0,0,1,-9,0,PF
+400950408,Milwaukee Bucks,G. MonroeG. MonroeC,22,6-9,0-0,6-6,2,2,4,1,1,0,1,1,-7,18,C
+400950408,Milwaukee Bucks,M. DellavedovaM. DellavedovaPG,22,3-10,1-4,0-0,0,3,3,1,0,0,0,1,-4,7,PG
+400950408,Milwaukee Bucks,J. TerryJ. TerrySG,6,1-1,0-0,1-1,0,1,1,1,1,0,0,0,-1,3,SG
+400950408,Milwaukee Bucks,TEAM,,36-87,11-23,17-19,12,28,40,20,6,4,11,16,,100,AM
+400950408,Milwaukee Bucks, ,,41.4%,47.8%,89.5%,,,,,,,,,,, 
+400950408,Toronto,S. IbakaS. IbakaPF,36,6-15,4-7,0-0,0,7,7,6,0,2,1,3,+13,16,PF
+400950408,Toronto,D. CarrollD. CarrollSF,17,3-4,2-3,1-3,0,1,1,1,0,0,0,3,-4,9,SF
+400950408,Toronto,J. ValanciunasJ. ValanciunasC,22,4-10,0-0,2-3,5,5,10,0,0,0,2,2,+1,10,C
+400950408,Toronto,K. LowryK. LowryPG,39,6-12,2-5,8-9,0,4,4,5,3,1,4,3,+7,22,PG
+400950408,Toronto,D. DeRozanD. DeRozanSG,38,9-18,0-1,5-6,0,7,7,3,0,0,2,2,-1,23,SG
+400950408,Toronto,P. PattersonP. PattersonPF,30,2-6,2-6,2-2,0,3,3,3,3,0,1,1,+6,8,PF
+400950408,Toronto,P. TuckerP. TuckerSF,28,2-4,1-3,0-2,0,5,5,2,0,1,0,4,+2,5,SF
+400950408,Toronto,J. PoeltlJ. PoeltlC,4,1-1,0-0,0-0,0,1,1,0,0,0,0,1,+4,2,C
+400950408,Toronto,D. WrightD. WrightPG,8,0-1,0-0,0-0,1,1,2,3,0,0,0,0,+1,0,PG
+400950408,Toronto,C. JosephC. JosephPG,18,4-6,3-4,0-0,0,0,0,1,0,0,2,3,+1,11,PG
+400950408,Toronto,TEAM,,37-77,14-29,18-25,6,34,40,24,6,4,12,22,,106,AM
+400950408,Toronto, ,,48.1%,48.3%,72.0%,,,,,,,,,,, 
+400950410,Toronto,S. IbakaS. IbakaPF,26,3-8,0-2,0-0,0,3,3,0,0,1,2,3,-18,6,PF
+400950410,Toronto,D. CarrollD. CarrollSF,14,1-4,1-4,0-0,0,1,1,0,2,2,0,0,-13,3,SF
+400950410,Toronto,J. ValanciunasJ. ValanciunasC,20,3-9,0-0,5-7,1,6,7,0,0,0,2,3,-12,11,C
+400950410,Toronto,K. LowryK. LowryPG,35,4-10,2-5,3-4,0,5,5,2,0,1,3,5,-18,13,PG
+400950410,Toronto,D. DeRozanD. DeRozanSG,31,0-8,0-2,8-8,0,2,2,0,0,0,3,2,-23,8,SG
+400950410,Toronto,P. PattersonP. PattersonPF,23,1-5,1-2,0-0,0,2,2,1,1,0,0,1,-21,3,PF
+400950410,Toronto,P. TuckerP. TuckerSF,14,0-0,0-0,0-0,0,3,3,1,1,0,1,1,-13,0,SF
+400950410,Toronto,L. NogueiraL. NogueiraC,4,1-1,0-0,0-0,0,0,0,0,0,0,0,0,+3,2,C
+400950410,Toronto,J. PoeltlJ. PoeltlC,9,2-6,0-0,0-2,4,3,7,0,0,0,0,2,-4,4,C
+400950410,Toronto,F. VanVleetF. VanVleetPG,6,0-1,0-1,0-0,0,0,0,1,0,0,0,0,+3,0,PG
+400950410,Toronto,D. WrightD. WrightPG,27,4-6,2-3,3-5,2,4,6,2,0,0,2,2,+0,13,PG
+400950410,Toronto,C. JosephC. JosephPG,16,1-5,0-2,0-0,1,0,1,3,0,0,2,2,-22,2,PG
+400950410,Toronto,N. PowellN. PowellSG,15,4-8,0-1,4-4,1,2,3,1,2,0,0,0,+3,12,SG
+400950410,Toronto,TEAM,,24-71,6-22,23-30,9,31,40,11,6,4,15,21,,77,AM
+400950410,Toronto, ,,33.8%,27.3%,76.7%,,,,,,,,,,, 
+400950410,Milwaukee Bucks,T. MakerT. MakerPF,21,3-5,1-2,4-4,1,1,2,2,0,0,1,3,+13,11,PF
+400950410,Milwaukee Bucks,G. AntetokounmpoG. AntetokounmpoSF,33,7-10,2-2,3-8,0,8,8,4,2,2,3,1,+29,19,SF
+400950410,Milwaukee Bucks,T. SnellT. SnellSG,25,2-5,1-3,0-0,0,2,2,2,0,0,0,4,+27,5,SG
+400950410,Milwaukee Bucks,M. BrogdonM. BrogdonSG,28,2-7,0-2,0-0,1,6,7,9,0,0,2,1,+10,4,SG
+400950410,Milwaukee Bucks,K. MiddletonK. MiddletonSG,34,8-15,1-4,3-3,0,3,3,7,2,0,0,1,+17,20,SG
+400950410,Milwaukee Bucks,S. HawesS. HawesPF,4,0-0,0-0,0-0,0,1,1,0,0,0,1,1,-3,0,PF
+400950410,Milwaukee Bucks,M. BeasleyM. BeasleySF,20,5-9,3-3,0-0,0,3,3,0,0,1,2,5,+8,13,SF
+400950410,Milwaukee Bucks,G. MonroeG. MonroeC,23,6-11,0-0,4-4,1,6,7,3,2,1,1,6,+17,16,C
+400950410,Milwaukee Bucks,M. DellavedovaM. DellavedovaPG,28,4-5,2-2,0-0,0,1,1,2,0,0,3,2,+20,10,PG
+400950410,Milwaukee Bucks,R. VaughnR. VaughnSG,6,2-3,2-2,0-0,0,0,0,0,0,0,0,0,-2,6,SG
+400950410,Milwaukee Bucks,J. TerryJ. TerrySG,18,0-4,0-3,0-0,0,2,2,0,0,0,0,1,-1,0,SG
+400950410,Milwaukee Bucks,TEAM,,39-74,12-23,14-19,3,33,36,29,6,4,13,25,,104,AM
+400950410,Milwaukee Bucks, ,,52.7%,52.2%,73.7%,,,,,,,,,,, 
+400950413,Toronto,S. IbakaS. IbakaPF,26,4-16,0-5,2-2,2,6,8,1,2,3,1,4,+0,10,PF
+400950413,Toronto,D. CarrollD. CarrollSF,20,1-6,0-3,0-0,1,5,6,0,2,0,0,1,+4,2,SF
+400950413,Toronto,K. LowryK. LowryPG,43,8-17,2-8,0-0,1,3,4,4,1,1,0,1,+15,18,PG
+400950413,Toronto,D. DeRozanD. DeRozanSG,40,12-22,0-1,9-9,0,9,9,5,4,0,4,2,+15,33,SG
+400950413,Toronto,N. PowellN. PowellSG,34,3-7,3-3,3-4,0,4,4,4,0,1,0,4,+15,12,SG
+400950413,Toronto,P. PattersonP. PattersonPF,8,0-2,0-0,0-0,0,1,1,1,0,0,0,0,+2,0,PF
+400950413,Toronto,P. TuckerP. TuckerSF,28,0-2,0-2,0-0,0,1,1,0,0,0,0,3,+7,0,SF
+400950413,Toronto,J. ValanciunasJ. ValanciunasC,22,5-5,0-0,2-2,0,5,5,0,1,0,4,4,+11,12,C
+400950413,Toronto,D. WrightD. WrightPG,11,0-0,0-0,0-0,0,3,3,1,1,1,1,0,-6,0,PG
+400950413,Toronto,C. JosephC. JosephPG,8,0-3,0-0,0-0,0,0,0,0,0,0,2,0,-8,0,PG
+400950413,Toronto,TEAM,,33-80,5-22,16-17,4,37,41,16,11,6,12,19,,87,AM
+400950413,Toronto, ,,41.3%,22.7%,94.1%,,,,,,,,,,, 
+400950413,Milwaukee Bucks,T. MakerT. MakerPF,24,3-7,0-2,1-1,2,2,4,2,2,0,1,5,-3,7,PF
+400950413,Milwaukee Bucks,G. AntetokounmpoG. AntetokounmpoSF,42,6-19,0-1,2-4,3,6,9,4,2,2,7,4,-16,14,SF
+400950413,Milwaukee Bucks,T. SnellT. SnellSG,38,7-12,5-10,0-0,1,3,4,0,0,0,1,3,-13,19,SG
+400950413,Milwaukee Bucks,M. BrogdonM. BrogdonSG,28,1-4,0-1,0-0,0,5,5,3,0,0,4,1,-12,2,SG
+400950413,Milwaukee Bucks,K. MiddletonK. MiddletonSG,36,4-13,0-3,2-3,0,11,11,3,1,0,4,3,-12,10,SG
+400950413,Milwaukee Bucks,M. BeasleyM. BeasleySF,15,2-9,0-2,0-0,2,3,5,0,0,0,0,2,+3,4,SF
+400950413,Milwaukee Bucks,G. MonroeG. MonroeC,24,4-9,0-0,6-10,5,4,9,1,2,1,1,1,-8,14,C
+400950413,Milwaukee Bucks,M. DellavedovaM. DellavedovaPG,20,1-4,0-0,0-0,0,2,2,3,0,0,1,1,+1,2,PG
+400950413,Milwaukee Bucks,J. TerryJ. TerrySG,13,2-4,0-2,0-0,0,1,1,0,1,0,1,1,+5,4,SG
+400950413,Milwaukee Bucks,TEAM,,30-81,5-21,11-18,13,37,50,16,8,3,20,21,,76,AM
+400950413,Milwaukee Bucks, ,,37.0%,23.8%,61.1%,,,,,,,,,,, 
+400950415,Milwaukee Bucks,T. MakerT. MakerPF,23,2-7,0-3,2-4,1,4,5,2,1,1,2,3,-10,6,PF
+400950415,Milwaukee Bucks,G. AntetokounmpoG. AntetokounmpoSF,41,12-18,0-0,6-9,0,8,8,3,3,3,2,5,-24,30,SF
+400950415,Milwaukee Bucks,T. SnellT. SnellSG,36,3-5,3-4,0-0,0,0,0,2,0,0,0,2,-18,9,SG
+400950415,Milwaukee Bucks,M. BrogdonM. BrogdonSG,33,7-11,5-7,0-0,0,2,2,3,1,0,2,5,-8,19,SG
+400950415,Milwaukee Bucks,K. MiddletonK. MiddletonSG,36,3-8,0-2,2-2,0,3,3,6,5,0,1,3,-10,8,SG
+400950415,Milwaukee Bucks,M. TeletovicM. TeletovicPF,9,1-2,1-2,0-0,0,1,1,0,1,0,1,0,-10,3,PF
+400950415,Milwaukee Bucks,M. BeasleyM. BeasleySF,7,0-2,0-0,0-4,0,0,0,0,1,0,0,0,-1,0,SF
+400950415,Milwaukee Bucks,G. MonroeG. MonroeC,22,4-6,0-0,3-4,0,2,2,2,1,0,4,2,-13,11,C
+400950415,Milwaukee Bucks,J. HensonJ. HensonC,3,1-2,0-0,1-1,0,0,0,0,0,0,1,0,-2,3,C
+400950415,Milwaukee Bucks,M. DellavedovaM. DellavedovaPG,22,1-4,1-3,1-2,0,1,1,2,0,0,1,1,-21,4,PG
+400950415,Milwaukee Bucks,R. VaughnR. VaughnSG,3,0-1,0-0,0-0,0,0,0,0,0,0,0,0,-2,0,SG
+400950415,Milwaukee Bucks,J. TerryJ. TerrySG,5,0-1,0-1,0-0,0,0,0,2,0,0,1,2,-6,0,SG
+400950415,Milwaukee Bucks,TEAM,,34-67,10-22,15-26,1,21,22,22,13,4,15,23,,93,AM
+400950415,Milwaukee Bucks, ,,50.7%,45.5%,57.7%,,,,,,,,,,, 
+400950415,Toronto,S. IbakaS. IbakaPF,25,8-10,1-3,2-2,0,6,6,3,1,3,2,4,+8,19,PF
+400950415,Toronto,D. CarrollD. CarrollSF,22,4-6,1-3,3-3,2,4,6,0,2,0,1,2,+11,12,SF
+400950415,Toronto,K. LowryK. LowryPG,36,4-9,2-4,6-6,0,3,3,10,2,0,2,4,+29,16,PG
+400950415,Toronto,D. DeRozanD. DeRozanSG,33,7-14,1-3,3-4,1,2,3,6,1,0,4,3,+18,18,SG
+400950415,Toronto,N. PowellN. PowellSG,34,8-11,4-4,5-5,0,4,4,4,3,1,4,3,+23,25,SG
+400950415,Toronto,P. PattersonP. PattersonPF,14,2-4,1-3,0-0,0,0,0,0,0,0,0,0,+0,5,PF
+400950415,Toronto,P. TuckerP. TuckerSF,24,0-3,0-2,2-2,1,5,6,2,0,0,1,1,+12,2,SF
+400950415,Toronto,L. NogueiraL. NogueiraC,2,0-0,0-0,0-0,0,2,2,0,0,0,0,1,+2,0,C
+400950415,Toronto,J. PoeltlJ. PoeltlC,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0,C
+400950415,Toronto,J. ValanciunasJ. ValanciunasC,21,3-5,0-0,2-3,0,7,7,1,0,2,1,3,+15,8,C
+400950415,Toronto,F. VanVleetF. VanVleetPG,3,1-1,1-1,0-0,0,0,0,1,0,0,0,0,+2,3,PG
+400950415,Toronto,D. WrightD. WrightPG,3,0-0,0-0,0-0,0,0,0,0,0,0,1,1,+2,0,PG
+400950415,Toronto,C. JosephC. JosephPG,20,4-8,1-4,1-1,1,2,3,1,1,0,1,2,+1,10,PG
+400950415,Toronto,TEAM,,41-71,12-27,24-26,5,35,40,28,10,6,17,24,,118,AM
+400950415,Toronto, ,,57.7%,44.4%,92.3%,,,,,,,,,,, 
+400950416,Toronto,S. IbakaS. IbakaPF,31,2-7,1-3,2-2,1,11,12,0,0,2,1,6,+1,7,PF
+400950416,Toronto,D. CarrollD. CarrollSF,13,2-4,2-3,0-0,0,1,1,2,0,0,1,0,+3,6,SF
+400950416,Toronto,K. LowryK. LowryPG,44,5-9,1-4,2-4,1,3,4,4,3,1,2,2,+7,13,PG
+400950416,Toronto,D. DeRozanD. DeRozanSG,40,12-24,0-3,8-9,1,3,4,3,5,0,3,2,+5,32,SG
+400950416,Toronto,N. PowellN. PowellSG,31,3-6,2-2,0-0,1,1,2,0,0,0,2,4,+5,8,SG
+400950416,Toronto,P. PattersonP. PattersonPF,23,2-4,1-3,2-2,1,4,5,2,1,0,1,0,-3,7,PF
+400950416,Toronto,P. TuckerP. TuckerSF,21,1-4,1-2,1-2,4,3,7,0,0,1,3,5,-9,4,SF
+400950416,Toronto,J. ValanciunasJ. ValanciunasC,17,2-6,0-0,2-2,0,5,5,1,0,0,1,0,+4,6,C
+400950416,Toronto,D. WrightD. WrightPG,6,2-2,0-0,0-0,1,0,1,1,0,0,0,1,+3,4,PG
+400950416,Toronto,C. JosephC. JosephPG,15,1-4,1-2,2-2,1,1,2,1,0,0,0,0,-1,5,PG
+400950416,Toronto,TEAM,,32-70,9-22,19-23,11,32,43,14,9,4,14,20,,92,AM
+400950416,Toronto, ,,45.7%,40.9%,82.6%,,,,,,,,,,, 
+400950416,Milwaukee Bucks,T. MakerT. MakerPF,13,0-3,0-1,2-2,1,1,2,2,0,5,2,1,-4,2,PF
+400950416,Milwaukee Bucks,G. AntetokounmpoG. AntetokounmpoSF,47,13-23,1-2,7-13,1,8,9,3,2,2,3,4,+1,34,SF
+400950416,Milwaukee Bucks,T. SnellT. SnellSG,31,1-4,0-1,0-0,0,2,2,2,1,1,1,4,-8,2,SG
+400950416,Milwaukee Bucks,M. BrogdonM. BrogdonSG,23,3-9,0-1,0-0,0,2,2,1,2,0,1,1,-15,6,SG
+400950416,Milwaukee Bucks,K. MiddletonK. MiddletonSG,42,6-13,3-5,4-7,0,4,4,5,2,0,3,4,+0,19,SG
+400950416,Milwaukee Bucks,G. MonroeG. MonroeC,24,2-5,0-0,2-2,4,3,7,1,1,1,3,2,+11,6,C
+400950416,Milwaukee Bucks,J. HensonJ. HensonC,9,0-2,0-0,0-0,2,2,4,0,1,0,0,1,-8,0,C
+400950416,Milwaukee Bucks,M. DellavedovaM. DellavedovaPG,34,4-9,1-4,3-4,1,3,4,4,1,0,1,0,+1,12,PG
+400950416,Milwaukee Bucks,J. TerryJ. TerrySG,18,3-7,2-4,0-0,2,1,3,0,1,1,0,3,+7,8,SG
+400950416,Milwaukee Bucks,TEAM,,32-75,7-18,18-28,11,26,37,18,11,10,14,20,,89,AM
+400950416,Milwaukee Bucks, ,,42.7%,38.9%,64.3%,,,,,,,,,,, 
+400950319,Memphis,J. GreenJ. GreenPF,15,1-3,1-2,0-0,0,1,1,1,0,0,0,4,+8,3,PF
+400950319,Memphis,M. GasolM. GasolC,34,11-18,3-3,7-7,0,5,5,2,0,2,1,4,-11,32,C
+400950319,Memphis,M. ConleyM. ConleyPG,30,5-14,2-4,1-2,1,4,5,7,3,1,2,2,-7,13,PG
+400950319,Memphis,V. CarterV. CarterSG,28,2-6,0-1,0-0,1,3,4,1,1,0,1,2,-12,4,SG
+400950319,Memphis,W. SeldenW. SeldenG,27,2-8,0-3,1-2,0,3,3,1,1,0,1,0,-1,5,nG
+400950319,Memphis,J. MartinJ. MartinPF,6,0-1,0-0,0-0,1,1,2,0,1,0,0,1,+2,0,PF
+400950319,Memphis,D. DavisD. DavisPF,7,3-3,0-0,1-2,1,3,4,0,0,0,0,1,-3,7,PF
+400950319,Memphis,B. WrightB. WrightPF,5,0-1,0-0,0-0,0,1,1,0,0,2,0,0,-3,0,PF
+400950319,Memphis,Z. RandolphZ. RandolphPF,26,3-13,0-1,0-0,0,3,3,1,0,0,1,1,-39,6,PF
+400950319,Memphis,J. Ennis IIIJ. Ennis IIISF,20,1-2,0-1,0-0,2,1,3,1,1,1,0,1,-28,2,SF
+400950319,Memphis,A. HarrisonA. HarrisonPG,20,3-6,1-2,3-4,1,1,2,2,0,0,1,2,-19,10,PG
+400950319,Memphis,W. Baldwin IVW. Baldwin IVPG,7,0-1,0-0,0-0,1,1,2,1,0,0,0,1,-3,0,PG
+400950319,Memphis,T. DanielsT. DanielsSG,16,0-3,0-3,0-0,0,0,0,0,0,0,1,1,-29,0,SG
+400950319,Memphis,TEAM,,31-79,7-20,13-17,8,27,35,17,7,6,8,20,,82,AM
+400950319,Memphis, ,,39.2%,35.0%,76.5%,,,,,,,,,,, 
+400950319,San Antonio Spurs,L. AldridgeL. AldridgePF,30,8-18,0-0,4-5,2,4,6,2,0,0,0,2,+11,20,PF
+400950319,San Antonio Spurs,K. LeonardK. LeonardSF,32,11-14,1-3,9-9,1,2,3,5,2,0,2,1,+17,32,SF
+400950319,San Antonio Spurs,D. DedmonD. DedmonC,18,0-0,0-0,0-2,2,6,8,1,0,2,0,1,-5,0,C
+400950319,San Antonio Spurs,T. ParkerT. ParkerPG,22,8-12,2-2,0-0,0,1,1,2,0,0,0,1,+12,18,PG
+400950319,San Antonio Spurs,D. GreenD. GreenSG,20,0-2,0-2,2-2,1,4,5,1,1,4,0,1,+6,2,SG
+400950319,San Antonio Spurs,D. LeeD. LeePF,15,2-5,0-1,1-2,1,3,4,0,0,2,0,1,+22,5,PF
+400950319,San Antonio Spurs,D. BertansD. BertansSF,7,1-1,1-1,1-2,0,0,0,0,0,0,1,0,+3,4,SF
+400950319,San Antonio Spurs,P. GasolP. GasolC,25,2-7,2-2,0-0,0,4,4,1,0,1,1,2,+22,6,C
+400950319,San Antonio Spurs,P. MillsP. MillsPG,17,3-4,3-3,0-0,0,2,2,0,0,0,3,3,+17,9,PG
+400950319,San Antonio Spurs,K. AndersonK. AndersonSG,17,2-3,0-1,0-0,0,3,3,0,0,1,1,1,+17,4,SG
+400950319,San Antonio Spurs,B. ForbesB. ForbesSG,9,2-3,1-2,0-0,0,1,1,0,0,0,0,3,+0,5,SG
+400950319,San Antonio Spurs,J. SimmonsJ. SimmonsSG,14,2-3,0-0,2-3,0,2,2,2,0,1,1,2,+5,6,SG
+400950319,San Antonio Spurs,M. GinobiliM. GinobiliSG,13,0-4,0-2,0-0,1,2,3,2,1,0,0,2,+18,0,SG
+400950319,San Antonio Spurs,TEAM,,41-76,10-19,19-25,8,34,42,16,4,11,9,20,,111,AM
+400950319,San Antonio Spurs, ,,53.9%,52.6%,76.0%,,,,,,,,,,, 
+400950393,Memphis,J. GreenJ. GreenPF,15,1-5,1-2,0-0,0,5,5,0,0,0,0,3,-2,3,PF
+400950393,Memphis,M. GasolM. GasolC,39,4-15,0-2,4-4,2,4,6,3,2,0,2,3,-11,12,C
+400950393,Memphis,M. ConleyM. ConleyPG,38,8-18,4-8,4-5,0,1,1,8,1,1,1,1,-2,24,PG
+400950393,Memphis,V. CarterV. CarterSG,33,5-9,2-5,0-0,0,0,0,0,0,0,0,3,-21,12,SG
+400950393,Memphis,W. SeldenW. SeldenG,16,0-2,0-2,0-0,1,1,2,1,0,0,0,3,-8,0,nG
+400950393,Memphis,B. WrightB. WrightPF,7,2-4,0-0,0-0,1,0,1,0,0,0,1,0,-6,4,PF
+400950393,Memphis,Z. RandolphZ. RandolphPF,36,9-18,0-1,0-0,2,8,10,1,3,0,2,2,-12,18,PF
+400950393,Memphis,J. Ennis IIIJ. Ennis IIISF,26,1-4,0-2,5-6,2,6,8,2,2,0,0,5,+5,7,SF
+400950393,Memphis,A. HarrisonA. HarrisonPG,23,1-5,0-3,0-0,1,1,2,4,0,0,1,2,-13,2,PG
+400950393,Memphis,T. DanielsT. DanielsSG,7,0-2,0-2,0-0,0,0,0,0,0,0,1,0,+0,0,SG
+400950393,Memphis,TEAM,,31-82,7-27,13-15,9,26,35,19,8,1,8,22,,82,AM
+400950393,Memphis, ,,37.8%,25.9%,86.7%,,,,,,,,,,, 
+400950393,San Antonio Spurs,L. AldridgeL. AldridgePF,42,3-8,0-1,5-6,1,3,4,1,0,2,2,4,+11,11,PF
+400950393,San Antonio Spurs,K. LeonardK. LeonardSF,40,9-14,0-2,19-19,1,10,11,2,0,0,4,2,+8,37,SF
+400950393,San Antonio Spurs,D. DedmonD. DedmonC,10,0-0,0-0,2-2,0,4,4,1,0,0,1,3,+1,2,C
+400950393,San Antonio Spurs,T. ParkerT. ParkerPG,24,6-14,3-5,0-0,0,3,3,1,1,0,2,1,+3,15,PG
+400950393,San Antonio Spurs,D. GreenD. GreenSG,29,4-5,4-5,0-0,0,2,2,0,0,1,0,1,+8,12,SG
+400950393,San Antonio Spurs,D. LeeD. LeePF,14,0-0,0-0,2-2,1,3,4,1,0,1,0,0,+0,2,PF
+400950393,San Antonio Spurs,P. GasolP. GasolC,30,4-6,2-2,0-0,0,5,5,2,0,0,1,1,+16,10,C
+400950393,San Antonio Spurs,P. MillsP. MillsPG,24,1-9,0-5,3-3,0,1,1,3,0,0,1,1,+11,5,PG
+400950393,San Antonio Spurs,K. AndersonK. AndersonSG,8,1-1,0-0,0-0,0,1,1,0,0,0,1,0,+6,2,SG
+400950393,San Antonio Spurs,M. GinobiliM. GinobiliSG,19,0-4,0-3,0-0,2,2,4,3,3,0,2,0,+6,0,SG
+400950393,San Antonio Spurs,TEAM,,28-61,9-23,31-32,5,34,39,14,4,4,14,13,,96,AM
+400950393,San Antonio Spurs, ,,45.9%,39.1%,96.9%,,,,,,,,,,, 
+400950395,San Antonio Spurs,L. AldridgeL. AldridgePF,30,5-8,0-1,6-10,3,8,11,2,0,1,1,0,-12,16,PF
+400950395,San Antonio Spurs,K. LeonardK. LeonardSF,30,6-11,2-4,4-4,0,4,4,3,0,1,1,2,-7,18,SF
+400950395,San Antonio Spurs,D. DedmonD. DedmonC,10,1-1,0-0,0-2,1,2,3,0,0,0,2,2,+6,2,C
+400950395,San Antonio Spurs,T. ParkerT. ParkerPG,19,0-4,0-0,0-0,0,1,1,0,0,0,1,1,-6,0,PG
+400950395,San Antonio Spurs,D. GreenD. GreenSG,21,3-9,0-4,0-0,3,1,4,0,0,0,0,4,-15,6,SG
+400950395,San Antonio Spurs,D. LeeD. LeePF,16,0-3,0-0,0-0,0,2,2,0,0,0,1,5,-9,0,PF
+400950395,San Antonio Spurs,D. BertansD. BertansSF,12,2-4,2-3,0-0,0,0,0,0,0,0,0,0,+7,6,SF
+400950395,San Antonio Spurs,P. GasolP. GasolC,27,2-9,0-2,2-4,4,4,8,1,0,1,0,0,-12,6,C
+400950395,San Antonio Spurs,D. MurrayD. MurrayPG,7,1-1,0-0,2-3,0,3,3,1,0,0,1,3,+11,4,PG
+400950395,San Antonio Spurs,P. MillsP. MillsPG,22,4-8,3-5,0-0,0,2,2,1,1,0,2,3,-16,11,PG
+400950395,San Antonio Spurs,K. AndersonK. AndersonSG,18,6-7,1-1,2-3,1,0,1,3,0,0,2,0,+3,15,SG
+400950395,San Antonio Spurs,J. SimmonsJ. SimmonsSG,16,4-5,2-3,0-2,0,2,2,3,0,0,1,1,+2,10,SG
+400950395,San Antonio Spurs,M. GinobiliM. GinobiliSG,10,0-2,0-1,0-0,0,1,1,2,0,0,0,0,-7,0,SG
+400950395,San Antonio Spurs,TEAM,,34-72,10-24,16-28,12,30,42,16,1,3,12,21,,94,AM
+400950395,San Antonio Spurs, ,,47.2%,41.7%,57.1%,,,,,,,,,,, 
+400950395,Memphis,Z. RandolphZ. RandolphPF,29,9-16,1-2,2-2,0,8,8,0,0,1,0,2,+5,21,PF
+400950395,Memphis,J. Ennis IIIJ. Ennis IIISF,20,4-6,1-3,3-4,0,2,2,1,1,0,1,4,+0,12,SF
+400950395,Memphis,M. GasolM. GasolC,36,8-14,2-2,3-4,1,5,6,3,0,1,1,4,+11,21,C
+400950395,Memphis,M. ConleyM. ConleyPG,34,7-13,2-5,8-8,0,1,1,8,0,0,2,0,+20,24,PG
+400950395,Memphis,V. CarterV. CarterSG,36,2-4,0-1,0-0,0,4,4,2,0,0,0,1,+10,4,SG
+400950395,Memphis,J. MartinJ. MartinPF,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-7,0,PF
+400950395,Memphis,D. DavisD. DavisPF,2,0-2,0-0,0-0,1,0,1,0,0,0,0,0,-7,0,PF
+400950395,Memphis,J. GreenJ. GreenPF,24,4-7,0-2,0-0,2,4,6,0,0,0,0,4,+17,8,PF
+400950395,Memphis,A. HarrisonA. HarrisonPG,25,1-6,1-3,2-2,1,1,2,6,1,0,1,3,+2,5,PG
+400950395,Memphis,W. Baldwin IVW. Baldwin IVPG,3,0-0,0-0,0-0,0,1,1,0,0,0,0,1,-9,0,PG
+400950395,Memphis,T. DanielsT. DanielsSG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0,SG
+400950395,Memphis,W. SeldenW. SeldenG,28,4-9,2-4,0-0,1,1,2,1,0,1,0,4,+11,10,nG
+400950395,Memphis,TEAM,,39-77,9-22,18-20,6,27,33,21,2,3,5,24,,105,AM
+400950395,Memphis, ,,50.6%,40.9%,90.0%,,,,,,,,,,, 
+400950397,San Antonio Spurs,D. LeeD. LeePF,33,3-5,0-0,2-2,2,3,5,2,1,0,0,4,-15,8,PF
+400950397,San Antonio Spurs,L. AldridgeL. AldridgePF,42,6-11,0-1,1-1,0,2,2,1,2,0,1,4,+4,13,PF
+400950397,San Antonio Spurs,K. LeonardK. LeonardSF,44,14-30,7-10,8-8,1,7,8,3,6,0,4,4,+18,43,SF
+400950397,San Antonio Spurs,T. ParkerT. ParkerPG,37,9-19,0-2,4-4,0,4,4,5,1,0,2,5,+5,22,PG
+400950397,San Antonio Spurs,D. GreenD. GreenSG,26,2-9,0-6,1-1,0,1,1,0,0,1,1,2,-4,5,SG
+400950397,San Antonio Spurs,D. BertansD. BertansSF,10,1-3,1-2,0-0,0,1,1,0,0,2,0,0,+13,3,SF
+400950397,San Antonio Spurs,P. GasolP. GasolC,21,4-7,0-1,0-0,5,6,11,0,0,0,1,3,-6,8,C
+400950397,San Antonio Spurs,P. MillsP. MillsPG,23,2-7,1-4,1-1,0,2,2,4,1,0,0,2,+0,6,PG
+400950397,San Antonio Spurs,J. SimmonsJ. SimmonsSG,7,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0,SG
+400950397,San Antonio Spurs,K. AndersonK. AndersonSG,6,0-1,0-0,0-0,0,2,2,0,0,0,0,0,-15,0,SG
+400950397,San Antonio Spurs,M. GinobiliM. GinobiliSG,16,0-5,0-4,0-0,0,1,1,1,0,0,0,0,-7,0,SG
+400950397,San Antonio Spurs,TEAM,,41-97,9-30,17-17,8,29,37,16,11,3,9,24,,108,AM
+400950397,San Antonio Spurs, ,,42.3%,30.0%,100.0%,,,,,,,,,,, 
+400950397,Memphis,Z. RandolphZ. RandolphPF,35,4-12,0-1,4-4,1,10,11,1,0,0,2,2,+14,12,PF
+400950397,Memphis,J. Ennis IIIJ. Ennis IIISF,32,2-10,0-3,3-3,1,4,5,0,0,1,4,5,-4,7,SF
+400950397,Memphis,M. GasolM. GasolC,46,5-12,1-2,5-5,2,10,12,4,0,1,8,3,-7,16,C
+400950397,Memphis,M. ConleyM. ConleyPG,42,13-23,4-8,5-7,0,9,9,8,1,0,3,3,+9,35,PG
+400950397,Memphis,V. CarterV. CarterSG,33,5-9,3-5,0-0,1,2,3,2,0,0,4,2,-12,13,SG
+400950397,Memphis,J. GreenJ. GreenPF,26,5-8,2-3,2-2,1,3,4,0,0,0,1,3,-2,14,PF
+400950397,Memphis,A. HarrisonA. HarrisonPG,20,2-2,0-0,3-3,0,3,3,1,1,1,0,3,+0,7,PG
+400950397,Memphis,T. DanielsT. DanielsSG,15,2-3,2-3,0-0,1,1,2,0,1,0,0,0,+7,6,SG
+400950397,Memphis,W. SeldenW. SeldenG,17,0-3,0-2,0-0,1,1,2,3,0,0,0,0,+5,0,nG
+400950397,Memphis,TEAM,,38-82,12-27,22-24,8,43,51,19,3,3,22,21,,110,AM
+400950397,Memphis, ,,46.3%,44.4%,91.7%,,,,,,,,,,, 
+400950398,Memphis,Z. RandolphZ. RandolphPF,26,4-10,0-1,1-2,3,3,6,1,2,0,0,4,-8,9,PF
+400950398,Memphis,J. Ennis IIIJ. Ennis IIISF,31,4-9,2-6,1-1,2,2,4,2,0,0,1,2,-17,11,SF
+400950398,Memphis,M. GasolM. GasolC,41,6-12,0-1,5-5,1,4,5,7,0,0,2,3,-12,17,C
+400950398,Memphis,M. ConleyM. ConleyPG,35,10-17,2-4,4-5,0,2,2,6,4,1,2,1,-3,26,PG
+400950398,Memphis,V. CarterV. CarterSG,32,2-5,1-2,5-5,0,5,5,3,0,0,2,2,-9,10,SG
+400950398,Memphis,J. MartinJ. MartinPF,2,1-2,0-0,0-0,1,1,2,0,0,0,0,0,+4,2,PF
+400950398,Memphis,D. DavisD. DavisPF,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+4,0,PF
+400950398,Memphis,J. GreenJ. GreenPF,24,4-8,3-5,0-0,0,3,3,1,0,0,1,3,-14,11,PF
+400950398,Memphis,A. HarrisonA. HarrisonPG,23,4-7,1-3,0-0,1,1,2,0,1,0,0,3,-21,9,PG
+400950398,Memphis,W. Baldwin IVW. Baldwin IVPG,2,0-0,0-0,2-2,0,1,1,1,0,0,0,1,+4,2,PG
+400950398,Memphis,T. DanielsT. DanielsSG,10,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+10,0,SG
+400950398,Memphis,W. SeldenW. SeldenG,10,2-2,0-0,2-2,0,0,0,1,0,0,1,0,-3,6,nG
+400950398,Memphis,TEAM,,37-72,9-22,20-22,8,23,31,22,7,1,9,20,,103,AM
+400950398,Memphis, ,,51.4%,40.9%,90.9%,,,,,,,,,,, 
+400950398,San Antonio Spurs,D. LeeD. LeePF,26,5-6,0-0,1-1,2,6,8,1,1,0,0,3,-1,11,PF
+400950398,San Antonio Spurs,L. AldridgeL. AldridgePF,38,5-13,0-1,2-2,3,6,9,1,1,1,0,3,+20,12,PF
+400950398,San Antonio Spurs,K. LeonardK. LeonardSF,39,9-16,3-5,7-8,0,1,1,6,1,0,2,1,+19,28,SF
+400950398,San Antonio Spurs,T. ParkerT. ParkerPG,30,6-12,2-4,2-2,0,2,2,6,1,0,4,0,+7,16,PG
+400950398,San Antonio Spurs,D. GreenD. GreenSG,22,1-3,1-2,0-0,0,2,2,2,0,0,0,1,-1,3,SG
+400950398,San Antonio Spurs,D. BertansD. BertansSF,14,1-5,1-5,0-0,1,2,3,1,0,0,0,1,-3,3,SF
+400950398,San Antonio Spurs,D. DedmonD. DedmonC,2,0-0,0-0,1-2,2,1,3,0,0,0,0,1,-4,1,C
+400950398,San Antonio Spurs,P. GasolP. GasolC,16,3-5,1-2,2-3,0,2,2,2,0,0,0,2,+14,9,C
+400950398,San Antonio Spurs,D. MurrayD. MurrayPG,2,0-1,0-0,1-2,0,0,0,0,0,0,0,0,-4,1,PG
+400950398,San Antonio Spurs,P. MillsP. MillsPG,22,7-10,5-7,1-1,0,2,2,1,0,0,0,2,+22,20,PG
+400950398,San Antonio Spurs,J. SimmonsJ. SimmonsSG,9,1-3,0-0,0-0,0,0,0,0,0,0,0,1,-6,2,SG
+400950398,San Antonio Spurs,K. AndersonK. AndersonSG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0,SG
+400950398,San Antonio Spurs,M. GinobiliM. GinobiliSG,18,4-6,1-2,1-1,2,0,2,3,3,1,1,2,+6,10,SG
+400950398,San Antonio Spurs,TEAM,,42-80,14-28,18-22,10,24,34,23,7,2,7,17,,116,AM
+400950398,San Antonio Spurs, ,,52.5%,50.0%,81.8%,,,,,,,,,,, 
+400950400,San Antonio Spurs,D. LeeD. LeePF,26,3-4,0-0,1-2,3,3,6,1,0,0,1,2,+5,7,PF
+400950400,San Antonio Spurs,L. AldridgeL. AldridgePF,42,7-17,0-1,3-3,5,7,12,1,0,0,3,5,+6,17,PF
+400950400,San Antonio Spurs,K. LeonardK. LeonardSF,40,8-19,1-5,12-13,3,6,9,4,3,0,1,2,+15,29,SF
+400950400,San Antonio Spurs,T. ParkerT. ParkerPG,31,11-14,1-2,4-4,1,1,2,4,0,0,1,0,+12,27,PG
+400950400,San Antonio Spurs,D. GreenD. GreenSG,27,2-6,2-5,1-2,1,3,4,1,1,0,0,3,-2,7,SG
+400950400,San Antonio Spurs,D. BertansD. BertansSF,4,0-1,0-1,0-0,0,2,2,0,0,0,1,1,+2,0,SF
+400950400,San Antonio Spurs,D. DedmonD. DedmonC,3,1-1,0-0,0-0,1,1,2,0,0,0,0,1,+0,2,C
+400950400,San Antonio Spurs,P. GasolP. GasolC,20,0-6,0-1,0-0,1,3,4,1,0,0,2,2,+0,0,C
+400950400,San Antonio Spurs,P. MillsP. MillsPG,22,4-6,2-3,0-0,0,1,1,1,0,0,1,2,+6,10,PG
+400950400,San Antonio Spurs,J. SimmonsJ. SimmonsSG,8,0-1,0-0,0-0,1,0,1,0,0,0,0,1,-8,0,SG
+400950400,San Antonio Spurs,M. GinobiliM. GinobiliSG,17,1-2,1-2,1-1,0,3,3,0,0,0,2,1,-1,4,SG
+400950400,San Antonio Spurs,TEAM,,37-77,7-20,22-25,16,30,46,13,4,0,12,20,,103,AM
+400950400,San Antonio Spurs, ,,48.1%,35.0%,88.0%,,,,,,,,,,, 
+400950400,Memphis,Z. RandolphZ. RandolphPF,38,6-14,0-1,1-3,3,8,11,0,0,1,2,3,+4,13,PF
+400950400,Memphis,J. Ennis IIIJ. Ennis IIISF,29,4-7,3-4,0-0,1,2,3,1,1,0,1,3,-15,11,SF
+400950400,Memphis,M. GasolM. GasolC,45,5-12,1-2,7-8,1,4,5,6,0,0,1,5,-7,18,C
+400950400,Memphis,M. ConleyM. ConleyPG,45,7-18,3-9,9-10,0,2,2,5,1,0,2,4,-6,26,PG
+400950400,Memphis,V. CarterV. CarterSG,32,4-9,2-6,2-2,2,2,4,1,1,0,3,5,-11,12,SG
+400950400,Memphis,J. GreenJ. GreenPF,14,2-5,0-2,1-1,0,1,1,0,0,0,2,4,-11,5,PF
+400950400,Memphis,A. HarrisonA. HarrisonPG,8,2-3,2-2,0-0,0,0,0,0,0,0,0,1,-8,6,PG
+400950400,Memphis,T. DanielsT. DanielsSG,21,1-1,1-1,0-0,0,2,2,2,1,0,0,0,+18,3,SG
+400950400,Memphis,W. SeldenW. SeldenG,8,1-2,0-0,0-0,0,0,0,0,0,0,0,1,+1,2,nG
+400950400,Memphis,TEAM,,32-71,12-27,20-24,7,21,28,15,4,1,11,26,,96,AM
+400950400,Memphis, ,,45.1%,44.4%,83.3%,,,,,,,,,,, 
+400952490,Houston,R. AndersonR. AndersonPF,35,4-12,4-10,2-2,0,6,6,3,2,1,0,0,+37,14,PF
+400952490,Houston,T. ArizaT. ArizaSF,31,7-14,5-10,4-4,1,3,4,2,2,0,2,2,+18,23,SF
+400952490,Houston,C. CapelaC. CapelaC,25,8-10,0-0,4-5,3,10,13,1,0,2,1,2,+30,20,C
+400952490,Houston,P. BeverleyP. BeverleyPG,24,2-7,2-5,1-1,1,6,7,4,1,1,0,2,+37,7,PG
+400952490,Houston,J. HardenJ. HardenSG,31,6-13,3-8,5-5,0,1,1,14,4,0,3,3,+18,20,SG
+400952490,Houston,M. HarrellM. HarrellPF,7,0-0,0-0,1-2,0,2,2,0,0,0,2,4,-8,1,PF
+400952490,Houston,K. WiltjerK. WiltjerF,5,1-1,1-1,0-0,0,0,0,0,0,0,0,0,-10,3,rF
+400952490,Houston,S. DekkerS. DekkerSF,7,1-4,1-2,0-0,2,1,3,1,1,0,0,0,-8,3,SF
+400952490,Houston,T. WilliamsT. WilliamsSF,5,0-2,0-2,1-2,0,1,1,0,0,0,1,0,-10,1,SF
+400952490,Houston,N. HilarioN. HilarioC,16,2-4,0-0,3-3,0,5,5,0,1,0,1,4,+5,7,C
+400952490,Houston,B. BrownB. BrownPG,5,1-4,1-2,0-0,0,1,1,1,0,0,0,1,-10,3,PG
+400952490,Houston,E. GordonE. GordonSG,24,4-8,3-6,0-0,0,3,3,4,1,0,1,3,+14,11,SG
+400952490,Houston,L. WilliamsL. WilliamsSG,23,4-8,2-4,3-3,0,3,3,0,1,1,3,4,+22,13,SG
+400952490,Houston,TEAM,,40-87,22-50,24-27,7,42,49,30,13,5,14,25,,126,AM
+400952490,Houston, ,,46.0%,44.0%,88.9%,,,,,,,,,,, 
+400952490,San Antonio Spurs,D. LeeD. LeePF,29,0-2,0-0,4-6,2,5,7,0,0,0,1,1,-9,4,PF
+400952490,San Antonio Spurs,L. AldridgeL. AldridgePF,25,2-7,0-0,0-0,2,4,6,1,1,0,2,1,-36,4,PF
+400952490,San Antonio Spurs,K. LeonardK. LeonardSF,32,5-14,3-7,8-8,0,11,11,6,0,1,1,0,-16,21,SF
+400952490,San Antonio Spurs,T. ParkerT. ParkerPG,23,3-9,1-2,4-4,0,4,4,3,0,0,2,1,-14,11,PG
+400952490,San Antonio Spurs,D. GreenD. GreenSG,22,3-10,2-9,0-3,1,1,2,1,2,0,4,3,-22,8,SG
+400952490,San Antonio Spurs,D. BertansD. BertansSF,11,0-2,0-2,0-0,1,2,3,1,0,0,0,1,+6,0,SF
+400952490,San Antonio Spurs,D. DedmonD. DedmonC,7,3-3,0-0,0-0,1,1,2,0,1,1,1,2,-6,6,C
+400952490,San Antonio Spurs,P. GasolP. GasolC,22,2-3,0-1,2-2,2,4,6,1,2,0,1,3,-11,6,C
+400952490,San Antonio Spurs,D. MurrayD. MurrayPG,9,0-4,0-0,4-4,0,0,0,3,1,0,0,0,+7,4,PG
+400952490,San Antonio Spurs,P. MillsP. MillsPG,16,3-7,1-3,0-1,0,1,1,0,0,0,0,2,-20,7,PG
+400952490,San Antonio Spurs,J. SimmonsJ. SimmonsSG,21,4-11,1-3,2-3,0,0,0,1,0,0,0,3,-9,11,SG
+400952490,San Antonio Spurs,K. AndersonK. AndersonSG,12,3-5,0-0,3-4,2,0,2,1,2,0,2,0,+2,9,SG
+400952490,San Antonio Spurs,M. GinobiliM. GinobiliSG,12,3-7,1-2,1-1,0,1,1,1,1,0,1,1,-7,8,SG
+400952490,San Antonio Spurs,TEAM,,31-84,9-29,28-36,11,34,45,19,10,2,15,18,,99,AM
+400952490,San Antonio Spurs, ,,36.9%,31.0%,77.8%,,,,,,,,,,, 
+400950317,Atlanta,P. MillsapP. MillsapPF,34,5-8,0-1,9-11,0,2,2,1,0,0,4,2,-20,19,PF
+400950317,Atlanta,T. PrinceT. PrinceSF,32,6-11,2-4,0-0,2,4,6,0,0,0,2,3,-4,14,SF
+400950317,Atlanta,D. HowardD. HowardC,29,2-6,0-0,3-4,4,10,14,1,1,1,1,3,-21,7,C
+400950317,Atlanta,D. SchroderD. SchroderPG,36,8-16,3-5,6-6,1,2,3,9,1,0,2,4,-11,25,PG
+400950317,Atlanta,T. Hardaway Jr.T. Hardaway Jr.SG,28,2-11,0-6,3-5,0,7,7,1,1,0,2,2,-14,7,SG
+400950317,Atlanta,M. MuscalaM. MuscalaPF,13,2-5,0-1,4-4,1,1,2,1,0,1,1,3,+20,8,PF
+400950317,Atlanta,E. IlyasovaE. IlyasovaPF,20,3-6,0-1,3-3,3,6,9,0,0,0,3,1,+7,9,PF
+400950317,Atlanta,K. BazemoreK. BazemoreSF,28,4-10,2-5,2-4,2,1,3,4,0,1,1,3,+9,12,SF
+400950317,Atlanta,J. CalderonJ. CalderonPG,8,1-3,0-1,0-0,0,1,1,1,1,0,1,1,-3,2,PG
+400950317,Atlanta,M. DunleavyM. DunleavySG,12,1-2,0-1,2-2,0,1,1,0,1,0,2,0,+2,4,SG
+400950317,Atlanta,TEAM,,34-78,7-25,32-39,13,35,48,18,5,3,19,22,,107,AM
+400950317,Atlanta, ,,43.6%,28.0%,82.1%,,,,,,,,,,, 
+400950317,Washington Wizards,M. MorrisM. MorrisPF,38,8-19,2-6,3-3,2,5,7,2,1,4,2,4,+18,21,PF
+400950317,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,32,3-6,1-2,3-3,2,7,9,2,0,0,0,3,+20,10,SF
+400950317,Washington Wizards,M. GortatM. GortatC,31,7-11,0-0,0-0,6,4,10,0,0,2,1,3,+21,14,C
+400950317,Washington Wizards,J. WallJ. WallPG,37,12-24,2-4,6-6,0,4,4,14,0,1,3,2,+8,32,PG
+400950317,Washington Wizards,B. BealB. BealSG,39,9-21,2-11,2-3,2,1,3,3,3,0,3,3,+21,22,SG
+400950317,Washington Wizards,J. SmithJ. SmithPF,13,0-1,0-0,0-0,1,0,1,0,0,1,3,4,-13,0,PF
+400950317,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,19,4-8,1-3,2-2,1,2,3,1,2,1,0,4,-16,11,SF
+400950317,Washington Wizards,B. JenningsB. JenningsPG,15,0-2,0-1,0-0,0,3,3,5,1,0,0,1,-10,0,PG
+400950317,Washington Wizards,T. SatoranskyT. SatoranskySG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-5,0,SG
+400950317,Washington Wizards,B. BogdanovicB. BogdanovicSG,14,2-8,0-1,0-0,1,1,2,1,1,0,0,0,-9,4,SG
+400950317,Washington Wizards,TEAM,,45-100,8-28,16-17,15,27,42,28,8,9,12,25,,114,AM
+400950317,Washington Wizards, ,,45.0%,28.6%,94.1%,,,,,,,,,,, 
+400950420,Atlanta,P. MillsapP. MillsapPF,35,6-14,1-3,14-15,1,9,10,4,2,1,5,3,-6,27,PF
+400950420,Atlanta,T. PrinceT. PrinceSF,30,5-8,0-1,2-2,1,3,4,1,0,0,1,1,-12,12,SF
+400950420,Atlanta,D. HowardD. HowardC,20,3-5,0-0,0-0,2,5,7,1,1,1,3,4,+5,6,C
+400950420,Atlanta,D. SchroderD. SchroderPG,38,8-21,1-8,6-8,2,2,4,6,1,0,1,2,+2,23,PG
+400950420,Atlanta,T. Hardaway Jr.T. Hardaway Jr.SG,35,5-14,2-4,7-7,1,0,1,2,0,0,4,3,-20,19,SG
+400950420,Atlanta,M. MuscalaM. MuscalaPF,23,1-6,0-1,0-0,0,6,6,1,0,2,0,5,-12,2,PF
+400950420,Atlanta,E. IlyasovaE. IlyasovaPF,16,1-3,0-1,0-0,2,2,4,0,1,0,0,1,+2,2,PF
+400950420,Atlanta,T. SefoloshaT. SefoloshaSF,4,0-1,0-0,0-2,0,0,0,0,0,0,0,0,-2,0,SF
+400950420,Atlanta,K. BazemoreK. BazemoreSF,25,2-5,0-1,4-4,1,4,5,0,0,2,4,5,+0,8,SF
+400950420,Atlanta,J. CalderonJ. CalderonPG,8,1-2,0-1,0-0,0,0,0,2,1,0,0,1,-6,2,PG
+400950420,Atlanta,M. DunleavyM. DunleavySG,6,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+9,0,SG
+400950420,Atlanta,TEAM,,32-79,4-20,33-38,10,31,41,17,6,6,18,26,,101,AM
+400950420,Atlanta, ,,40.5%,20.0%,86.8%,,,,,,,,,,, 
+400950420,Washington Wizards,M. MorrisM. MorrisPF,20,1-3,0-1,1-2,0,3,3,2,0,2,0,5,+16,3,PF
+400950420,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,23,2-7,0-3,0-0,0,5,5,2,2,0,1,4,+19,4,SF
+400950420,Washington Wizards,M. GortatM. GortatC,35,7-10,0-0,0-0,6,4,10,3,1,5,1,3,+7,14,C
+400950420,Washington Wizards,J. WallJ. WallPG,39,9-20,2-2,12-15,0,5,5,9,2,1,4,2,-2,32,PG
+400950420,Washington Wizards,B. BealB. BealSG,42,12-27,4-10,3-6,1,1,2,3,3,0,4,2,+14,31,SG
+400950420,Washington Wizards,J. SmithJ. SmithPF,28,3-6,0-0,2-2,2,5,7,1,1,1,1,5,-7,8,PF
+400950420,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,13,0-1,0-0,1-2,0,1,1,0,1,1,0,4,-10,1,SF
+400950420,Washington Wizards,B. JenningsB. JenningsPG,17,4-5,0-1,2-2,1,3,4,2,0,0,0,1,+3,10,PG
+400950420,Washington Wizards,B. BogdanovicB. BogdanovicSG,22,1-7,1-5,3-4,1,5,6,0,0,0,0,3,+0,6,SG
+400950420,Washington Wizards,TEAM,,39-86,7-22,24-33,11,32,43,22,10,10,11,29,,109,AM
+400950420,Washington Wizards, ,,45.3%,31.8%,72.7%,,,,,,,,,,, 
+400950422,Washington Wizards,M. MorrisM. MorrisPF,29,4-14,1-4,0-0,0,6,6,0,1,2,2,5,-17,9,PF
+400950422,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,24,3-7,1-3,0-0,1,1,2,0,1,0,1,2,-13,7,SF
+400950422,Washington Wizards,M. GortatM. GortatC,29,1-4,0-0,0-0,2,7,9,0,0,1,0,2,-22,2,C
+400950422,Washington Wizards,J. WallJ. WallPG,32,10-12,1-1,8-10,0,3,3,7,1,0,3,2,-24,29,PG
+400950422,Washington Wizards,B. BealB. BealSG,35,6-20,0-6,0-0,1,4,5,1,0,1,1,3,-26,12,SG
+400950422,Washington Wizards,D. OchefuD. OchefuPF,3,0-1,0-0,0-0,0,0,0,0,0,0,1,0,+0,0,PF
+400950422,Washington Wizards,J. SmithJ. SmithPF,8,1-2,0-1,0-0,0,4,4,0,0,0,1,6,+6,2,PF
+400950422,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,24,3-11,3-7,0-0,2,3,5,1,2,0,2,6,-7,9,SF
+400950422,Washington Wizards,B. JenningsB. JenningsPG,17,4-6,1-2,4-4,0,0,0,4,0,0,2,0,+7,13,PG
+400950422,Washington Wizards,T. SatoranskyT. SatoranskySG,9,0-0,0-0,0-0,0,1,1,2,1,0,2,1,+9,0,SG
+400950422,Washington Wizards,S. McClellanS. McClellanSG,3,2-3,0-1,0-0,0,0,0,0,0,0,0,1,+0,4,SG
+400950422,Washington Wizards,B. BogdanovicB. BogdanovicSG,27,3-9,0-4,5-6,0,7,7,1,0,0,0,0,-3,11,SG
+400950422,Washington Wizards,TEAM,,37-89,7-29,17-20,6,36,42,16,6,4,15,28,,98,AM
+400950422,Washington Wizards, ,,41.6%,24.1%,85.0%,,,,,,,,,,, 
+400950422,Atlanta,P. MillsapP. MillsapPF,33,12-20,0-1,5-9,3,11,14,5,1,2,2,3,+22,29,PF
+400950422,Atlanta,T. PrinceT. PrinceSF,28,7-10,2-2,0-0,0,4,4,0,1,0,0,0,+23,16,SF
+400950422,Atlanta,D. HowardD. HowardC,27,2-4,0-0,1-3,2,9,11,2,1,1,0,3,+24,5,C
+400950422,Atlanta,D. SchroderD. SchroderPG,31,10-22,3-7,4-6,0,2,2,9,1,0,3,4,+18,27,PG
+400950422,Atlanta,T. Hardaway Jr.T. Hardaway Jr.SG,29,3-9,1-6,1-2,0,1,1,2,0,0,1,2,+19,8,SG
+400950422,Atlanta,M. MuscalaM. MuscalaPF,15,0-3,0-1,3-4,4,1,5,0,1,0,0,0,-7,3,PF
+400950422,Atlanta,K. HumphriesK. HumphriesPF,3,0-0,0-0,0-0,0,0,0,0,0,1,0,0,-1,0,PF
+400950422,Atlanta,E. IlyasovaE. IlyasovaPF,19,1-5,0-1,2-2,2,4,6,0,0,0,1,1,-2,4,PF
+400950422,Atlanta,T. SefoloshaT. SefoloshaSF,3,0-0,0-0,1-2,0,0,0,0,0,0,0,1,-1,1,SF
+400950422,Atlanta,K. BazemoreK. BazemoreSF,21,3-8,1-3,1-2,0,3,3,4,1,1,1,0,+1,8,SF
+400950422,Atlanta,M. DelaneyM. DelaneyPG,3,3-3,1-1,1-2,0,1,1,0,0,0,0,0,+0,8,PG
+400950422,Atlanta,J. CalderonJ. CalderonPG,13,2-3,0-1,0-0,0,2,2,2,0,0,1,2,-1,4,PG
+400950422,Atlanta,M. DunleavyM. DunleavySG,15,1-2,1-2,0-0,0,1,1,2,0,0,2,1,-5,3,SG
+400950422,Atlanta,TEAM,,44-89,9-25,19-32,11,39,50,26,6,5,11,17,,116,AM
+400950422,Atlanta, ,,49.4%,36.0%,59.4%,,,,,,,,,,, 
+400950425,Washington Wizards,M. MorrisM. MorrisPF,24,3-10,0-1,3-4,1,3,4,2,0,0,1,5,-10,9,PF
+400950425,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,39,5-10,1-3,2-3,1,3,4,0,1,2,0,1,-8,13,SF
+400950425,Washington Wizards,M. GortatM. GortatC,35,1-4,0-0,0-0,4,14,18,3,0,3,1,5,-1,2,C
+400950425,Washington Wizards,J. WallJ. WallPG,41,7-19,2-5,6-8,0,5,5,10,2,0,6,2,-1,22,PG
+400950425,Washington Wizards,B. BealB. BealSG,39,11-23,5-14,5-5,0,5,5,2,2,0,1,4,+3,32,SG
+400950425,Washington Wizards,D. OchefuD. OchefuPF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,PF
+400950425,Washington Wizards,J. SmithJ. SmithPF,24,2-4,1-3,0-0,2,2,4,1,1,0,2,3,+0,5,PF
+400950425,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,9,0-2,0-1,0-0,0,2,2,0,0,0,2,3,-12,0,SF
+400950425,Washington Wizards,B. JenningsB. JenningsPG,11,2-4,0-1,1-2,0,1,1,1,0,0,0,1,-9,5,PG
+400950425,Washington Wizards,T. SatoranskyT. SatoranskySG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400950425,Washington Wizards,S. McClellanS. McClellanSG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400950425,Washington Wizards,B. BogdanovicB. BogdanovicSG,18,5-9,2-4,1-1,1,2,3,0,1,0,1,1,-12,13,SG
+400950425,Washington Wizards,TEAM,,36-85,11-32,18-23,9,37,46,19,7,5,14,25,,101,AM
+400950425,Washington Wizards, ,,42.4%,34.4%,78.3%,,,,,,,,,,, 
+400950425,Atlanta,P. MillsapP. MillsapPF,36,6-15,1-4,6-8,1,8,9,7,2,0,3,3,+6,19,PF
+400950425,Atlanta,T. PrinceT. PrinceSF,32,5-7,0-1,1-1,1,6,7,1,0,0,1,2,+4,11,SF
+400950425,Atlanta,D. HowardD. HowardC,30,6-14,0-0,4-5,4,11,15,1,0,1,0,3,+8,16,C
+400950425,Atlanta,D. SchroderD. SchroderPG,28,6-15,2-6,4-4,0,3,3,1,0,0,1,3,-13,18,PG
+400950425,Atlanta,T. Hardaway Jr.T. Hardaway Jr.SG,31,6-12,3-5,0-1,1,1,2,1,2,0,3,3,+5,15,SG
+400950425,Atlanta,M. MuscalaM. MuscalaPF,8,0-2,0-1,0-0,0,0,0,0,0,0,0,0,-5,0,PF
+400950425,Atlanta,E. IlyasovaE. IlyasovaPF,22,2-3,1-1,1-2,2,3,5,1,0,0,0,2,+11,6,PF
+400950425,Atlanta,T. SefoloshaT. SefoloshaSF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0,SF
+400950425,Atlanta,K. BazemoreK. BazemoreSF,24,5-12,3-8,3-4,0,4,4,7,3,0,1,1,+13,16,SF
+400950425,Atlanta,J. CalderonJ. CalderonPG,20,4-9,2-5,0-0,2,0,2,5,0,0,1,3,+29,10,PG
+400950425,Atlanta,M. DunleavyM. DunleavySG,7,0-1,0-0,0-0,1,1,2,0,0,0,2,0,+0,0,SG
+400950425,Atlanta,TEAM,,40-90,12-31,19-25,12,37,49,24,7,1,12,20,,111,AM
+400950425,Atlanta, ,,44.4%,38.7%,76.0%,,,,,,,,,,, 
+400950427,Atlanta,P. MillsapP. MillsapPF,35,8-19,0-3,5-6,1,10,11,2,1,0,3,3,-2,21,PF
+400950427,Atlanta,T. PrinceT. PrinceSF,32,4-11,0-3,2-2,2,4,6,4,0,1,1,1,-3,10,SF
+400950427,Atlanta,D. HowardD. HowardC,28,2-3,0-0,1-4,2,8,10,2,1,1,2,5,-4,5,C
+400950427,Atlanta,D. SchroderD. SchroderPG,38,10-18,5-6,4-5,1,0,1,11,1,0,1,3,+3,29,PG
+400950427,Atlanta,T. Hardaway Jr.T. Hardaway Jr.SG,38,6-18,3-10,0-2,0,2,2,0,0,0,0,1,-2,15,SG
+400950427,Atlanta,M. MuscalaM. MuscalaPF,16,2-2,0-0,0-0,0,2,2,0,0,0,0,3,+1,4,PF
+400950427,Atlanta,E. IlyasovaE. IlyasovaPF,9,1-6,0-1,0-0,4,2,6,1,0,0,1,1,-7,2,PF
+400950427,Atlanta,T. SefoloshaT. SefoloshaSF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SF
+400950427,Atlanta,K. BazemoreK. BazemoreSF,23,3-12,0-5,0-0,1,1,2,2,0,0,2,2,+1,6,SF
+400950427,Atlanta,J. CalderonJ. CalderonPG,10,1-2,0-1,0-0,0,2,2,1,0,0,1,1,-7,2,PG
+400950427,Atlanta,M. DunleavyM. DunleavySG,12,1-2,1-2,2-2,0,1,1,0,0,0,0,1,+0,5,SG
+400950427,Atlanta,TEAM,,38-93,9-31,14-21,11,32,43,23,3,2,11,21,,99,AM
+400950427,Atlanta, ,,40.9%,29.0%,66.7%,,,,,,,,,,, 
+400950427,Washington Wizards,M. MorrisM. MorrisPF,20,4-9,0-0,0-0,0,5,5,0,0,1,0,5,+10,8,PF
+400950427,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,31,3-4,2-3,9-10,1,4,5,1,2,1,0,3,+1,17,SF
+400950427,Washington Wizards,M. GortatM. GortatC,39,1-6,0-0,3-4,2,8,10,1,0,3,1,2,+0,5,C
+400950427,Washington Wizards,J. WallJ. WallPG,39,9-20,1-3,1-1,1,5,6,14,1,0,4,3,+3,20,PG
+400950427,Washington Wizards,B. BealB. BealSG,41,11-22,1-9,4-6,0,4,4,1,3,3,0,2,+2,27,SG
+400950427,Washington Wizards,J. SmithJ. SmithPF,16,2-9,0-3,1-2,1,1,2,0,0,1,0,0,-4,5,PF
+400950427,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,13,2-4,1-3,0-0,1,2,3,1,0,1,0,1,-1,5,SF
+400950427,Washington Wizards,B. JenningsB. JenningsPG,16,1-1,0-0,0-0,0,0,0,3,1,0,1,2,+3,2,PG
+400950427,Washington Wizards,T. SatoranskyT. SatoranskySG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400950427,Washington Wizards,B. BogdanovicB. BogdanovicSG,24,4-7,2-3,4-4,3,4,7,0,1,0,0,2,+6,14,SG
+400950427,Washington Wizards,TEAM,,37-82,7-24,22-27,9,33,42,21,8,10,6,20,,103,AM
+400950427,Washington Wizards, ,,45.1%,29.2%,81.5%,,,,,,,,,,, 
+400950428,Washington Wizards,M. MorrisM. MorrisPF,40,7-14,2-4,1-3,3,5,8,1,1,3,1,2,+20,17,PF
+400950428,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,28,3-5,2-4,0-0,1,7,8,3,2,0,1,4,+24,8,SF
+400950428,Washington Wizards,M. GortatM. GortatC,18,1-4,0-0,0-0,1,6,7,3,0,0,2,4,+7,2,C
+400950428,Washington Wizards,J. WallJ. WallPG,44,16-25,1-4,9-10,0,1,1,8,4,2,7,1,+19,42,PG
+400950428,Washington Wizards,B. BealB. BealSG,34,11-17,2-3,7-8,2,1,3,3,3,1,3,4,+32,31,SG
+400950428,Washington Wizards,D. OchefuD. OchefuPF,1,0-0,0-0,0-0,0,1,1,0,0,0,0,1,+0,0,PF
+400950428,Washington Wizards,J. SmithJ. SmithPF,11,0-1,0-1,0-0,1,1,2,0,0,0,0,3,+1,0,PF
+400950428,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,21,1-4,1-2,2-2,0,1,1,1,5,0,0,3,-12,5,SF
+400950428,Washington Wizards,B. JenningsB. JenningsPG,16,0-2,0-1,0-0,0,0,0,2,0,0,1,0,-19,0,PG
+400950428,Washington Wizards,T. SatoranskyT. SatoranskySG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400950428,Washington Wizards,S. McClellanS. McClellanSG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400950428,Washington Wizards,B. BogdanovicB. BogdanovicSG,25,3-6,2-5,2-2,0,2,2,0,1,1,1,0,+8,10,SG
+400950428,Washington Wizards,TEAM,,42-78,10-24,21-25,8,25,33,21,16,7,16,22,,115,AM
+400950428,Washington Wizards, ,,53.8%,41.7%,84.0%,,,,,,,,,,, 
+400950428,Atlanta,P. MillsapP. MillsapPF,46,13-23,1-5,4-4,3,7,10,7,4,1,6,5,-12,31,PF
+400950428,Atlanta,T. PrinceT. PrinceSF,33,2-5,0-3,0-0,1,4,5,2,1,0,2,2,-13,4,SF
+400950428,Atlanta,D. HowardD. HowardC,23,3-4,0-0,3-3,4,3,7,1,2,0,5,3,-14,9,C
+400950428,Atlanta,D. SchroderD. SchroderPG,40,8-18,3-8,7-8,0,1,1,10,2,0,2,3,-17,26,PG
+400950428,Atlanta,T. Hardaway Jr.T. Hardaway Jr.SG,40,5-18,2-11,1-2,1,2,3,1,0,0,0,2,-4,13,SG
+400950428,Atlanta,M. MuscalaM. MuscalaPF,7,0-0,0-0,0-0,1,0,1,0,0,0,0,1,-1,0,PF
+400950428,Atlanta,E. IlyasovaE. IlyasovaPF,5,0-0,0-0,1-2,1,0,1,0,0,0,0,1,-4,1,PF
+400950428,Atlanta,K. BazemoreK. BazemoreSF,30,4-6,1-2,0-0,0,6,6,3,0,1,7,4,-6,9,SF
+400950428,Atlanta,J. CalderonJ. CalderonPG,16,2-4,2-3,0-0,0,1,1,2,0,1,0,1,-5,6,PG
+400950428,Atlanta,M. DunleavyM. DunleavySG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0,SG
+400950428,Atlanta,TEAM,,37-78,9-32,16-19,11,24,35,26,9,3,22,22,,99,AM
+400950428,Atlanta, ,,47.4%,28.1%,84.2%,,,,,,,,,,, 
+400952526,Washington Wizards,M. MorrisM. MorrisPF,11,2-7,0-1,1-1,1,2,3,0,0,1,0,0,+7,5,PF
+400952526,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,41,7-10,1-3,1-2,2,9,11,1,2,0,0,2,+3,16,SF
+400952526,Washington Wizards,M. GortatM. GortatC,39,7-13,0-0,2-5,8,5,13,4,1,1,0,1,-15,16,C
+400952526,Washington Wizards,J. WallJ. WallPG,39,9-20,1-5,1-2,0,4,4,16,1,2,8,1,-5,20,PG
+400952526,Washington Wizards,B. BealB. BealSG,40,9-19,4-7,5-7,0,1,1,4,1,1,3,4,-7,27,SG
+400952526,Washington Wizards,D. OchefuD. OchefuPF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,PF
+400952526,Washington Wizards,J. SmithJ. SmithPF,10,2-3,0-0,1-2,1,0,1,0,0,0,0,0,+1,5,PF
+400952526,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,26,5-8,2-4,0-0,0,1,1,0,0,2,1,3,-22,12,SF
+400952526,Washington Wizards,B. JenningsB. JenningsPG,13,0-2,0-0,0-0,0,1,1,1,0,0,0,0,-6,0,PG
+400952526,Washington Wizards,T. SatoranskyT. SatoranskySG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0,SG
+400952526,Washington Wizards,B. BogdanovicB. BogdanovicSG,19,3-5,2-3,2-3,0,3,3,1,1,0,0,3,-15,10,SG
+400952526,Washington Wizards,TEAM,,44-87,10-23,13-22,12,26,38,27,6,7,12,14,,111,AM
+400952526,Washington Wizards, ,,50.6%,43.5%,59.1%,,,,,,,,,,, 
+400952526,Boston,J. CrowderJ. CrowderSF,35,8-14,6-8,2-2,2,4,6,1,1,0,0,3,+26,24,SF
+400952526,Boston,G. GreenG. GreenSF,7,0-0,0-0,0-0,0,0,0,0,0,0,1,0,-13,0,SF
+400952526,Boston,A. HorfordA. HorfordC,35,10-13,1-3,0-0,5,4,9,10,0,1,2,3,+21,21,C
+400952526,Boston,I. ThomasI. ThomasPG,38,11-23,5-11,6-7,0,1,1,9,0,1,2,0,+0,33,PG
+400952526,Boston,A. BradleyA. BradleySG,39,7-20,3-9,1-1,3,2,5,4,4,0,1,5,+7,18,SG
+400952526,Boston,J. JerebkoJ. JerebkoPF,6,0-1,0-0,0-0,0,0,0,0,0,0,0,0,-11,0,PF
+400952526,Boston,A. JohnsonA. JohnsonPF,9,0-1,0-0,0-0,0,0,0,0,0,1,0,2,-7,0,PF
+400952526,Boston,J. BrownJ. BrownSF,6,2-3,1-1,0-0,0,2,2,1,0,0,1,0,+8,5,SF
+400952526,Boston,K. OlynykK. OlynykC,18,5-7,2-2,0-1,0,4,4,2,0,0,2,4,+4,12,C
+400952526,Boston,M. SmartM. SmartPG,31,2-5,1-3,1-2,0,3,3,4,3,3,2,4,+12,6,PG
+400952526,Boston,T. RozierT. RozierPG,15,1-3,0-2,2-2,2,6,8,1,0,1,0,4,+13,4,PG
+400952526,Boston,J. YoungJ. YoungSG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,SG
+400952526,Boston,TEAM,,46-90,19-39,12-15,12,26,38,32,8,7,11,25,,123,AM
+400952526,Boston, ,,51.1%,48.7%,80.0%,,,,,,,,,,, 
+400952527,Washington Wizards,M. MorrisM. MorrisPF,27,6-11,1-2,3-3,1,5,6,3,2,1,2,6,+10,16,PF
+400952527,Washington Wizards,O. Porter Jr.O. Porter Jr.SF,38,5-12,1-4,2-2,1,8,9,4,0,2,2,2,-4,13,SF
+400952527,Washington Wizards,M. GortatM. GortatC,42,6-8,0-0,2-4,4,6,10,3,1,2,2,6,+4,14,C
+400952527,Washington Wizards,J. WallJ. WallPG,47,16-32,3-10,5-7,1,2,3,13,3,3,4,3,-3,40,PG
+400952527,Washington Wizards,B. BealB. BealSG,47,4-15,1-9,5-6,2,3,5,4,1,0,6,1,-10,14,SG
+400952527,Washington Wizards,J. SmithJ. SmithPF,16,4-6,2-2,0-0,0,1,1,1,0,2,1,3,-6,10,PF
+400952527,Washington Wizards,K. Oubre Jr.K. Oubre Jr.SF,28,5-11,2-4,0-0,3,4,7,0,0,0,0,5,-24,12,SF
+400952527,Washington Wizards,B. JenningsB. JenningsPG,12,0-2,0-1,0-0,1,0,1,0,0,0,0,1,-7,0,PG
+400952527,Washington Wizards,B. BogdanovicB. BogdanovicSG,8,0-2,0-2,0-0,0,2,2,0,0,0,0,2,-10,0,SG
+400952527,Washington Wizards,TEAM,,46-99,10-34,17-22,13,31,44,28,7,10,17,29,,119,AM
+400952527,Washington Wizards, ,,46.5%,29.4%,77.3%,,,,,,,,,,, 
+400952527,Boston,A. JohnsonA. JohnsonPF,5,0-0,0-0,0-0,0,0,0,0,0,1,1,1,-8,0,PF
+400952527,Boston,J. CrowderJ. CrowderSF,41,4-9,0-3,6-9,2,5,7,4,1,2,1,2,+3,14,SF
+400952527,Boston,A. HorfordA. HorfordC,43,6-9,1-3,2-2,3,9,12,3,1,2,3,4,+2,15,C
+400952527,Boston,I. ThomasI. ThomasPG,45,18-33,5-12,12-13,1,3,4,4,3,0,2,2,+10,53,PG
+400952527,Boston,A. BradleyA. BradleySG,35,6-16,2-7,0-0,2,2,4,1,3,1,3,2,-5,14,SG
+400952527,Boston,J. BrownJ. BrownSF,12,2-3,0-0,0-0,0,2,2,2,0,0,0,3,+5,4,SF
+400952527,Boston,K. OlynykK. OlynykC,21,3-3,2-2,0-0,1,1,2,3,0,0,3,3,+11,8,C
+400952527,Boston,M. SmartM. SmartPG,39,3-7,1-4,2-6,3,1,4,5,2,1,3,3,+7,9,PG
+400952527,Boston,T. RozierT. RozierPG,25,3-8,2-5,4-4,0,6,6,4,1,0,0,1,+25,12,PG
+400952527,Boston,TEAM,,45-88,13-36,26-34,12,29,41,26,11,7,16,21,,129,AM
+400952527,Boston, ,,51.1%,36.1%,76.5%,,,,,,,,,,, 
+400950320,Oklahoma City Thunder,T. GibsonT. GibsonPF,21,2-4,0-0,1-2,0,1,1,1,0,0,0,2,-6,5,PF
+400950320,Oklahoma City Thunder,A. RobersonA. RobersonSF,35,7-10,4-6,0-0,2,6,8,1,2,3,2,3,-24,18,SF
+400950320,Oklahoma City Thunder,S. AdamsS. AdamsC,28,3-6,0-0,0-2,1,4,5,1,1,0,1,1,-22,6,C
+400950320,Oklahoma City Thunder,R. WestbrookR. WestbrookPG,34,6-23,3-11,7-8,2,9,11,7,2,0,9,3,-25,22,PG
+400950320,Oklahoma City Thunder,V. OladipoV. OladipoSG,32,1-12,0-6,4-4,0,3,3,3,1,2,1,3,-19,6,SG
+400950320,Oklahoma City Thunder,D. SabonisD. SabonisPF,4,0-2,0-1,4-4,0,2,2,0,1,0,0,1,+1,4,PF
+400950320,Oklahoma City Thunder,J. GrantJ. GrantSF,27,5-9,0-0,0-1,1,4,5,1,0,0,1,1,-25,10,SF
+400950320,Oklahoma City Thunder,D. McDermottD. McDermottSF,3,1-2,1-1,0-0,0,0,0,0,0,0,0,0,+1,3,SF
+400950320,Oklahoma City Thunder,E. KanterE. KanterC,16,3-7,0-0,2-2,1,2,3,1,0,0,1,2,-10,8,C
+400950320,Oklahoma City Thunder,S. ChristonS. ChristonPG,14,2-2,1-1,0-0,0,2,2,2,1,0,0,1,-6,5,PG
+400950320,Oklahoma City Thunder,N. ColeN. ColePG,6,0-2,0-1,0-0,0,0,0,0,0,0,0,1,-12,0,PG
+400950320,Oklahoma City Thunder,A. AbrinesA. AbrinesSG,20,0-2,0-2,0-0,0,1,1,2,0,0,0,1,-8,0,SG
+400950320,Oklahoma City Thunder,TEAM,,30-81,9-29,18-23,7,34,41,19,8,5,15,19,,87,AM
+400950320,Oklahoma City Thunder, ,,37.0%,31.0%,78.3%,,,,,,,,,,, 
+400950320,Houston,R. AndersonR. AndersonPF,38,1-6,0-4,2-2,3,9,12,1,0,0,0,3,+27,4,PF
+400950320,Houston,T. ArizaT. ArizaSF,32,2-4,0-1,0-0,0,4,4,2,1,0,2,2,+17,4,SF
+400950320,Houston,C. CapelaC. CapelaC,25,7-9,0-0,0-1,3,4,7,2,1,2,0,1,+27,14,C
+400950320,Houston,P. BeverleyP. BeverleyPG,26,8-13,4-6,1-2,1,9,10,3,2,0,2,2,+18,21,PG
+400950320,Houston,J. HardenJ. HardenSG,34,13-28,3-11,8-11,1,6,7,9,3,0,2,1,+22,37,SG
+400950320,Houston,M. HarrellM. HarrellPF,4,0-0,0-0,1-2,0,2,2,0,0,0,0,2,+1,1,PF
+400950320,Houston,T. WilliamsT. WilliamsSF,4,0-1,0-1,0-0,1,1,2,0,0,0,1,0,-1,0,SF
+400950320,Houston,N. HilarioN. HilarioC,19,7-8,0-0,1-1,3,2,5,0,0,1,0,4,+3,15,C
+400950320,Houston,B. BrownB. BrownPG,4,1-3,1-2,0-0,0,1,1,0,0,0,0,0,-1,3,PG
+400950320,Houston,E. GordonE. GordonSG,29,3-8,2-5,0-0,1,1,2,2,1,0,2,2,+21,8,SG
+400950320,Houston,L. WilliamsL. WilliamsSG,26,3-11,0-3,5-7,1,3,4,2,0,0,2,2,+21,11,SG
+400950320,Houston,TEAM,,45-91,10-33,18-26,14,42,56,21,8,3,11,19,,118,AM
+400950320,Houston, ,,49.5%,30.3%,69.2%,,,,,,,,,,, 
+400950404,Oklahoma City Thunder,T. GibsonT. GibsonPF,21,3-6,0-0,2-2,1,4,5,0,0,0,0,3,+17,8,PF
+400950404,Oklahoma City Thunder,A. RobersonA. RobersonSF,37,6-12,0-3,0-0,7,1,8,0,2,3,0,1,-2,12,SF
+400950404,Oklahoma City Thunder,S. AdamsS. AdamsC,27,2-3,0-0,1-2,3,4,7,1,1,2,0,6,+18,5,C
+400950404,Oklahoma City Thunder,R. WestbrookR. WestbrookPG,41,17-43,2-11,15-18,2,8,10,13,4,1,4,3,+11,51,PG
+400950404,Oklahoma City Thunder,V. OladipoV. OladipoSG,41,4-14,1-7,2-2,1,8,9,3,1,0,2,3,+0,11,SG
+400950404,Oklahoma City Thunder,D. SabonisD. SabonisPF,2,0-1,0-0,0-0,0,0,0,0,0,1,0,3,-5,0,PF
+400950404,Oklahoma City Thunder,J. GrantJ. GrantSF,26,2-4,1-2,4-4,2,3,5,0,1,2,1,1,-20,9,SF
+400950404,Oklahoma City Thunder,D. McDermottD. McDermottSF,14,4-5,3-4,0-0,0,1,1,0,0,0,0,0,-7,11,SF
+400950404,Oklahoma City Thunder,K. SinglerK. SinglerSF,10,0-1,0-0,0-0,0,1,1,0,0,0,0,2,-4,0,SF
+400950404,Oklahoma City Thunder,E. KanterE. KanterC,8,2-4,0-0,0-0,1,0,1,0,0,2,0,2,-9,4,C
+400950404,Oklahoma City Thunder,S. ChristonS. ChristonPG,7,0-3,0-2,0-0,0,1,1,3,0,0,0,0,-15,0,PG
+400950404,Oklahoma City Thunder,A. AbrinesA. AbrinesSG,4,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-4,0,SG
+400950404,Oklahoma City Thunder,TEAM,,40-97,7-30,24-28,17,31,48,20,9,11,7,24,,111,AM
+400950404,Oklahoma City Thunder, ,,41.2%,23.3%,85.7%,,,,,,,,,,, 
+400950404,Houston,R. AndersonR. AndersonPF,29,1-8,0-7,2-2,0,3,3,0,0,1,0,3,-18,4,PF
+400950404,Houston,T. ArizaT. ArizaSF,40,2-5,0-1,0-0,0,4,4,1,1,1,1,2,+6,4,SF
+400950404,Houston,C. CapelaC. CapelaC,23,3-8,0-0,1-3,3,7,10,1,0,4,0,2,-4,7,C
+400950404,Houston,P. BeverleyP. BeverleyPG,34,6-9,2-4,1-2,1,5,6,4,1,0,2,5,-7,15,PG
+400950404,Houston,J. HardenJ. HardenSG,37,7-17,3-7,18-20,0,4,4,8,1,0,7,5,+2,35,SG
+400950404,Houston,N. HilarioN. HilarioC,25,3-3,0-0,1-4,0,5,5,2,1,1,1,2,+8,7,C
+400950404,Houston,E. GordonE. GordonSG,30,8-14,3-6,3-4,0,4,4,2,0,1,2,2,+15,22,SG
+400950404,Houston,L. WilliamsL. WilliamsSG,21,8-14,3-4,2-2,1,0,1,2,1,0,0,0,+18,21,SG
+400950404,Houston,TEAM,,38-78,11-29,28-37,5,32,37,20,5,8,13,21,,115,AM
+400950404,Houston, ,,48.7%,37.9%,75.7%,,,,,,,,,,, 
+400950406,Houston,R. AndersonR. AndersonPF,33,8-14,2-7,0-0,2,4,6,0,1,0,1,4,+1,18,PF
+400950406,Houston,T. ArizaT. ArizaSF,39,2-9,0-4,3-3,2,6,8,0,0,0,0,1,-7,7,SF
+400950406,Houston,C. CapelaC. CapelaC,23,2-5,0-0,1-3,1,1,2,0,1,3,1,2,-15,5,C
+400950406,Houston,P. BeverleyP. BeverleyPG,25,0-6,0-3,1-2,2,5,7,2,0,0,3,6,-7,1,PG
+400950406,Houston,J. HardenJ. HardenSG,38,11-21,4-12,18-18,1,5,6,6,0,1,7,5,+1,44,SG
+400950406,Houston,N. HilarioN. HilarioC,15,1-2,0-0,2-4,1,5,6,0,0,1,1,2,+7,4,C
+400950406,Houston,E. GordonE. GordonSG,36,5-11,1-5,1-1,0,3,3,1,2,1,0,3,+6,12,SG
+400950406,Houston,L. WilliamsL. WilliamsSG,30,9-15,3-4,1-2,2,2,4,1,0,0,0,1,+4,22,SG
+400950406,Houston,TEAM,,38-83,10-35,27-33,11,31,42,10,4,6,13,24,,113,AM
+400950406,Houston, ,,45.8%,28.6%,81.8%,,,,,,,,,,, 
+400950406,Oklahoma City Thunder,T. GibsonT. GibsonPF,29,10-13,0-0,0-0,0,2,2,1,0,0,5,2,-1,20,PF
+400950406,Oklahoma City Thunder,A. RobersonA. RobersonSF,38,5-8,2-3,0-5,3,3,6,4,2,3,0,3,+0,12,SF
+400950406,Oklahoma City Thunder,S. AdamsS. AdamsC,26,2-5,0-0,0-0,3,3,6,2,1,0,0,2,+5,4,C
+400950406,Oklahoma City Thunder,R. WestbrookR. WestbrookPG,39,11-24,0-1,10-14,0,12,12,11,3,0,5,3,+3,32,PG
+400950406,Oklahoma City Thunder,V. OladipoV. OladipoSG,35,5-8,2-3,0-0,1,5,6,2,2,0,1,4,+9,12,SG
+400950406,Oklahoma City Thunder,J. GrantJ. GrantSF,19,3-5,0-1,0-0,0,1,1,2,0,0,0,2,-7,6,SF
+400950406,Oklahoma City Thunder,D. McDermottD. McDermottSF,16,2-4,2-4,0-0,0,1,1,0,0,1,0,1,+4,6,SF
+400950406,Oklahoma City Thunder,E. KanterE. KanterC,10,4-8,0-0,2-2,1,2,3,0,0,1,0,1,+1,10,C
+400950406,Oklahoma City Thunder,N. ColeN. ColePG,9,2-3,1-2,0-0,0,0,0,1,0,0,0,1,-1,5,PG
+400950406,Oklahoma City Thunder,A. AbrinesA. AbrinesSG,18,2-5,2-5,2-2,1,2,3,1,0,0,0,2,-3,8,SG
+400950406,Oklahoma City Thunder,TEAM,,46-83,9-19,14-23,9,31,40,24,8,5,11,21,,115,AM
+400950406,Oklahoma City Thunder, ,,55.4%,47.4%,60.9%,,,,,,,,,,, 
+400950407,Houston,R. AndersonR. AndersonPF,20,2-5,1-3,4-4,3,0,3,0,0,0,3,2,-9,9,PF
+400950407,Houston,T. ArizaT. ArizaSF,43,4-8,3-5,3-3,1,4,5,3,4,0,1,3,+2,14,SF
+400950407,Houston,C. CapelaC. CapelaC,18,2-5,0-0,0-0,1,4,5,1,0,0,2,2,-25,4,C
+400950407,Houston,P. BeverleyP. BeverleyPG,27,2-13,2-8,0-0,0,0,0,3,5,0,2,3,+0,6,PG
+400950407,Houston,J. HardenJ. HardenSG,39,5-16,0-7,6-7,0,7,7,8,1,0,7,3,+0,16,SG
+400950407,Houston,N. HilarioN. HilarioC,25,12-12,0-0,4-7,4,6,10,1,1,0,1,5,+24,28,C
+400950407,Houston,E. GordonE. GordonSG,36,5-13,4-7,4-5,2,6,8,1,0,2,1,3,+18,18,SG
+400950407,Houston,L. WilliamsL. WilliamsSG,32,5-13,1-5,7-7,2,5,7,2,2,0,2,5,+10,18,SG
+400950407,Houston,TEAM,,37-85,11-35,28-33,13,32,45,19,13,2,19,26,,113,AM
+400950407,Houston, ,,43.5%,31.4%,84.8%,,,,,,,,,,, 
+400950407,Oklahoma City Thunder,T. GibsonT. GibsonPF,22,2-5,0-0,2-2,1,1,2,1,1,0,2,3,+1,6,PF
+400950407,Oklahoma City Thunder,A. RobersonA. RobersonSF,38,5-9,1-2,2-12,3,1,4,0,2,5,3,3,+1,13,SF
+400950407,Oklahoma City Thunder,S. AdamsS. AdamsC,37,8-10,0-0,2-5,4,3,7,2,1,3,2,1,+5,18,C
+400950407,Oklahoma City Thunder,R. WestbrookR. WestbrookPG,39,10-28,3-8,12-13,0,14,14,14,3,1,5,2,+14,35,PG
+400950407,Oklahoma City Thunder,V. OladipoV. OladipoSG,39,7-10,1-3,0-0,0,4,4,2,2,1,0,4,-1,15,SG
+400950407,Oklahoma City Thunder,J. GrantJ. GrantSF,14,5-5,0-0,0-0,1,2,3,0,0,0,1,3,-3,10,SF
+400950407,Oklahoma City Thunder,D. McDermottD. McDermottSF,19,2-6,1-3,0-0,0,1,1,0,1,0,1,0,-1,5,SF
+400950407,Oklahoma City Thunder,E. KanterE. KanterC,8,1-5,0-0,0-0,0,2,2,0,0,1,1,1,-9,2,C
+400950407,Oklahoma City Thunder,N. ColeN. ColePG,9,0-3,0-1,0-0,0,1,1,0,0,1,2,2,-18,0,PG
+400950407,Oklahoma City Thunder,A. AbrinesA. AbrinesSG,15,2-4,1-2,0-0,1,1,2,1,0,0,0,1,-9,5,SG
+400950407,Oklahoma City Thunder,TEAM,,42-85,7-19,18-32,10,30,40,20,10,12,17,20,,109,AM
+400950407,Oklahoma City Thunder, ,,49.4%,36.8%,56.3%,,,,,,,,,,, 
+400950409,Oklahoma City Thunder,T. GibsonT. GibsonPF,25,4-7,0-0,2-2,1,7,8,0,0,0,1,3,+13,10,PF
+400950409,Oklahoma City Thunder,A. RobersonA. RobersonSF,37,1-7,0-3,1-4,3,2,5,4,4,3,2,5,+4,3,SF
+400950409,Oklahoma City Thunder,S. AdamsS. AdamsC,39,3-4,0-0,1-2,6,3,9,1,2,4,1,4,+10,7,C
+400950409,Oklahoma City Thunder,R. WestbrookR. WestbrookPG,42,15-34,5-18,12-17,5,6,11,9,0,0,7,5,+12,47,PG
+400950409,Oklahoma City Thunder,V. OladipoV. OladipoSG,34,4-17,2-6,0-0,0,6,6,0,1,0,2,3,-2,10,SG
+400950409,Oklahoma City Thunder,J. GrantJ. GrantSF,24,4-8,1-3,2-2,3,2,5,1,0,0,0,0,-24,11,SF
+400950409,Oklahoma City Thunder,D. McDermottD. McDermottSF,14,0-1,0-1,0-0,0,2,2,1,0,0,0,1,-12,0,SF
+400950409,Oklahoma City Thunder,E. KanterE. KanterC,3,0-2,0-0,0-0,0,0,0,0,0,0,0,2,-6,0,C
+400950409,Oklahoma City Thunder,N. ColeN. ColePG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0,PG
+400950409,Oklahoma City Thunder,A. AbrinesA. AbrinesSG,22,4-11,2-7,1-2,0,3,3,0,0,0,0,4,-23,11,SG
+400950409,Oklahoma City Thunder,TEAM,,35-91,10-38,19-29,18,31,49,16,7,7,13,27,,99,AM
+400950409,Oklahoma City Thunder, ,,38.5%,26.3%,65.5%,,,,,,,,,,, 
+400950409,Houston,R. AndersonR. AndersonPF,24,1-6,0-3,0-0,0,2,2,1,0,0,0,1,+11,2,PF
+400950409,Houston,T. ArizaT. ArizaSF,36,1-6,0-5,0-0,1,1,2,2,0,0,0,5,-8,2,SF
+400950409,Houston,C. CapelaC. CapelaC,22,2-3,0-0,4-6,3,6,9,0,1,4,1,3,+7,8,C
+400950409,Houston,P. BeverleyP. BeverleyPG,27,6-10,1-1,2-2,5,3,8,3,1,0,2,4,+10,15,PG
+400950409,Houston,J. HardenJ. HardenSG,38,8-25,2-13,16-17,1,7,8,4,3,2,5,4,-6,34,SG
+400950409,Houston,N. HilarioN. HilarioC,26,5-8,0-1,4-6,0,7,7,0,1,0,3,3,-1,14,C
+400950409,Houston,E. GordonE. GordonSG,35,3-10,1-8,1-2,0,6,6,2,0,0,0,2,+1,8,SG
+400950409,Houston,L. WilliamsL. WilliamsSG,33,7-14,2-6,6-6,0,5,5,1,1,0,1,1,+16,22,SG
+400950409,Houston,TEAM,,33-82,6-37,33-39,10,37,47,13,7,6,12,23,,105,AM
+400950409,Houston, ,,40.2%,16.2%,84.6%,,,,,,,,,,, 
+400950318,Portland Trail Blazers,N. VonlehN. VonlehPF,23,1-5,0-0,0-0,1,4,5,4,0,0,2,4,-10,2,PF
+400950318,Portland Trail Blazers,M. HarklessM. HarklessSF,35,5-13,1-6,0-0,2,1,3,1,2,1,0,5,-10,11,SF
+400950318,Portland Trail Blazers,D. LillardD. LillardPG,39,12-26,3-9,7-7,2,3,5,3,2,1,3,2,-6,34,PG
+400950318,Portland Trail Blazers,E. TurnerE. TurnerSG,36,3-7,2-3,4-4,1,9,10,4,1,0,1,4,-9,12,SG
+400950318,Portland Trail Blazers,C. McCollumC. McCollumSG,41,16-28,4-6,5-6,3,5,8,1,1,1,4,4,-5,41,SG
+400950318,Portland Trail Blazers,M. LeonardM. LeonardPF,7,0-0,0-0,0-0,2,0,2,1,0,0,2,1,-4,0,PF
+400950318,Portland Trail Blazers,A. AminuA. AminuSF,23,0-5,0-1,0-0,0,3,3,0,0,0,2,3,-8,0,SF
+400950318,Portland Trail Blazers,S. NapierS. NapierPG,10,1-1,0-0,1-2,0,0,0,0,1,0,0,0,-8,3,PG
+400950318,Portland Trail Blazers,A. CrabbeA. CrabbeSG,22,1-5,1-3,0-2,0,2,2,1,1,0,0,2,-5,3,SG
+400950318,Portland Trail Blazers,P. ConnaughtonP. ConnaughtonSG,4,1-3,0-2,1-1,0,0,0,0,0,0,0,0,+5,3,SG
+400950318,Portland Trail Blazers,TEAM,,40-93,11-30,18-22,11,27,38,15,8,3,14,25,,109,AM
+400950318,Portland Trail Blazers, ,,43.0%,36.7%,81.8%,,,,,,,,,,, 
+400950318,Golden State,D. GreenD. GreenPF,37,6-10,3-4,4-7,1,11,12,9,3,5,1,4,+15,19,PF
+400950318,Golden State,K. DurantK. DurantSF,36,12-20,2-6,6-7,1,10,11,2,0,1,3,2,+1,32,SF
+400950318,Golden State,Z. PachuliaZ. PachuliaC,12,2-4,0-0,0-0,0,1,1,1,0,0,2,3,+4,4,C
+400950318,Golden State,S. CurryS. CurryPG,36,9-19,3-8,8-8,1,4,5,4,1,1,5,5,+5,29,PG
+400950318,Golden State,K. ThompsonK. ThompsonSG,35,6-16,1-6,2-2,2,1,3,2,1,1,2,1,+14,15,SG
+400950318,Golden State,D. WestD. WestPF,13,0-1,0-0,0-0,0,3,3,2,0,0,1,1,+3,0,PF
+400950318,Golden State,J. McAdooJ. McAdooSF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0,SF
+400950318,Golden State,A. IguodalaA. IguodalaSF,33,0-1,0-1,2-2,0,2,2,4,1,0,2,3,+8,2,SF
+400950318,Golden State,J. McGeeJ. McGeeC,10,3-4,0-0,0-0,3,2,5,1,0,2,0,1,+8,6,C
+400950318,Golden State,P. McCawP. McCawPG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,PG
+400950318,Golden State,S. LivingstonS. LivingstonPG,15,1-1,0-0,0-0,0,1,1,1,0,0,0,2,+0,2,PG
+400950318,Golden State,I. ClarkI. ClarkSG,12,4-5,2-2,2-2,1,1,2,0,1,0,0,2,+5,12,SG
+400950318,Golden State,TEAM,,43-81,11-27,24-28,9,36,45,26,7,10,16,24,,121,AM
+400950318,Golden State, ,,53.1%,40.7%,85.7%,,,,,,,,,,, 
+400950322,Portland Trail Blazers,N. VonlehN. VonlehPF,19,1-3,0-0,1-3,2,1,3,1,1,1,1,1,-29,3,PF
+400950322,Portland Trail Blazers,M. HarklessM. HarklessSF,29,5-14,1-5,4-4,3,5,8,1,2,4,1,4,-20,15,SF
+400950322,Portland Trail Blazers,D. LillardD. LillardPG,30,5-17,0-4,2-2,1,4,5,0,2,0,4,2,-33,12,PG
+400950322,Portland Trail Blazers,E. TurnerE. TurnerSG,27,2-7,1-4,0-0,0,3,3,7,2,0,4,1,-14,5,SG
+400950322,Portland Trail Blazers,C. McCollumC. McCollumSG,30,4-17,1-3,2-2,2,3,5,2,1,0,5,1,-26,11,SG
+400950322,Portland Trail Blazers,M. LeonardM. LeonardPF,13,1-3,0-2,0-0,0,3,3,0,0,0,1,3,+0,2,PF
+400950322,Portland Trail Blazers,J. LaymanJ. LaymanSF,10,1-1,0-0,1-2,0,1,1,1,1,0,0,2,+0,3,SF
+400950322,Portland Trail Blazers,A. AminuA. AminuSF,24,4-7,1-3,0-2,2,5,7,1,0,2,1,2,-11,9,SF
+400950322,Portland Trail Blazers,S. NapierS. NapierPG,15,3-6,2-4,2-2,0,2,2,1,0,0,0,1,-4,10,PG
+400950322,Portland Trail Blazers,T. QuartermanT. QuartermanSG,5,1-1,1-1,0-0,0,0,0,0,0,0,0,1,+3,3,SG
+400950322,Portland Trail Blazers,A. CrabbeA. CrabbeSG,24,3-10,0-5,0-0,0,4,4,1,0,0,1,1,-8,6,SG
+400950322,Portland Trail Blazers,P. ConnaughtonP. ConnaughtonSG,14,0-4,0-3,2-2,1,5,6,2,0,0,0,0,-3,2,SG
+400950322,Portland Trail Blazers,TEAM,,30-90,7-34,14-19,11,36,47,17,9,7,18,19,,81,AM
+400950322,Portland Trail Blazers, ,,33.3%,20.6%,73.7%,,,,,,,,,,, 
+400950322,Golden State,D. GreenD. GreenPF,30,1-5,1-3,3-4,1,11,12,10,0,3,4,3,+16,6,PF
+400950322,Golden State,Z. PachuliaZ. PachuliaC,17,5-8,0-1,0-0,2,3,5,0,2,0,1,2,+13,10,C
+400950322,Golden State,S. CurryS. CurryPG,31,6-18,4-12,3-5,0,5,5,6,4,1,4,1,+32,19,PG
+400950322,Golden State,P. McCawP. McCawPG,34,3-8,1-3,2-2,0,5,5,1,0,1,0,1,+27,9,PG
+400950322,Golden State,K. ThompsonK. ThompsonSG,31,6-17,3-8,1-1,1,1,2,2,0,1,5,2,+29,16,SG
+400950322,Golden State,D. WestD. WestPF,14,3-5,0-0,2-2,1,0,1,4,0,1,0,0,-3,8,PF
+400950322,Golden State,J. McAdooJ. McAdooSF,11,2-5,1-2,2-2,1,1,2,0,0,0,0,1,+3,7,SF
+400950322,Golden State,A. IguodalaA. IguodalaSF,27,3-7,0-1,0-0,1,9,10,6,1,0,0,1,+14,6,SF
+400950322,Golden State,D. JonesD. JonesC,6,0-0,0-0,1-2,2,0,2,0,0,0,0,1,-3,1,C
+400950322,Golden State,J. McGeeJ. McGeeC,13,7-7,0-0,1-1,2,3,5,0,1,4,2,1,+19,15,C
+400950322,Golden State,I. ClarkI. ClarkSG,26,4-11,0-2,5-5,0,5,5,2,0,0,1,4,-2,13,SG
+400950322,Golden State,TEAM,,40-91,10-32,20-24,11,43,54,31,8,11,17,17,,110,AM
+400950322,Golden State, ,,44.0%,31.3%,83.3%,,,,,,,,,,, 
+400950324,Golden State,D. GreenD. GreenPF,40,2-6,2-5,3-4,1,7,8,7,2,6,2,4,+3,9,PF
+400950324,Golden State,Z. PachuliaZ. PachuliaC,10,0-4,0-0,0-0,0,5,5,1,0,1,0,0,-11,0,C
+400950324,Golden State,S. CurryS. CurryPG,39,10-25,5-14,9-10,1,3,4,8,2,1,1,1,+13,34,PG
+400950324,Golden State,P. McCawP. McCawPG,29,4-6,1-2,2-4,2,3,5,5,3,1,0,3,-14,11,PG
+400950324,Golden State,K. ThompsonK. ThompsonSG,41,8-21,4-9,4-6,0,2,2,0,3,0,2,4,-2,24,SG
+400950324,Golden State,D. WestD. WestPF,14,3-6,0-0,0-0,1,4,5,1,0,2,2,3,+2,6,PF
+400950324,Golden State,A. IguodalaA. IguodalaSF,36,5-12,0-6,6-7,0,7,7,3,0,0,0,0,+11,16,SF
+400950324,Golden State,J. McGeeJ. McGeeC,16,6-8,0-0,2-2,1,3,4,0,1,0,0,2,+24,14,C
+400950324,Golden State,I. ClarkI. ClarkSG,16,2-3,0-0,1-2,0,2,2,0,0,0,0,2,+4,5,SG
+400950324,Golden State,TEAM,,40-91,12-36,27-35,6,36,42,25,11,11,7,19,,119,AM
+400950324,Golden State, ,,44.0%,33.3%,77.1%,,,,,,,,,,, 
+400950324,Portland Trail Blazers,M. HarklessM. HarklessSF,20,0-4,0-0,1-2,1,0,1,1,0,0,0,3,-7,1,SF
+400950324,Portland Trail Blazers,J. NurkicJ. NurkicC,17,1-3,0-1,0-0,0,11,11,4,0,1,3,1,+8,2,C
+400950324,Portland Trail Blazers,D. LillardD. LillardPG,40,10-23,4-13,7-7,0,7,7,4,0,1,2,3,-14,31,PG
+400950324,Portland Trail Blazers,E. TurnerE. TurnerSG,40,5-12,1-4,6-10,2,6,8,3,1,2,1,2,+3,17,SG
+400950324,Portland Trail Blazers,C. McCollumC. McCollumSG,39,10-23,6-9,6-6,3,3,6,0,2,0,4,2,+2,32,SG
+400950324,Portland Trail Blazers,N. VonlehN. VonlehPF,25,5-8,0-0,0-0,4,3,7,3,0,1,3,4,-2,10,PF
+400950324,Portland Trail Blazers,A. AminuA. AminuSF,31,6-13,1-4,1-1,1,8,9,2,1,1,3,1,-13,14,SF
+400950324,Portland Trail Blazers,S. NapierS. NapierPG,5,0-1,0-0,0-0,0,0,0,0,1,0,0,2,+1,0,PG
+400950324,Portland Trail Blazers,A. CrabbeA. CrabbeSG,23,2-3,1-2,1-1,0,3,3,0,0,0,0,5,-8,6,SG
+400950324,Portland Trail Blazers,TEAM,,39-90,13-33,22-27,11,41,52,17,5,6,16,23,,113,AM
+400950324,Portland Trail Blazers, ,,43.3%,39.4%,81.5%,,,,,,,,,,, 
+400950386,Golden State,D. GreenD. GreenPF,33,7-11,5-8,2-4,0,6,6,4,2,3,2,2,+38,21,PF
+400950386,Golden State,K. DurantK. DurantSF,20,4-7,2-2,0-0,0,3,3,2,1,2,3,0,+25,10,SF
+400950386,Golden State,Z. PachuliaZ. PachuliaC,19,4-6,0-0,3-3,0,7,7,1,1,0,0,2,+32,11,C
+400950386,Golden State,S. CurryS. CurryPG,30,12-20,7-11,6-7,2,5,7,8,1,0,4,0,+29,37,PG
+400950386,Golden State,K. ThompsonK. ThompsonSG,30,6-13,3-5,3-4,0,2,2,1,0,0,0,0,+36,18,SG
+400950386,Golden State,D. WestD. WestPF,16,5-6,0-0,2-2,0,2,2,4,2,0,0,2,-3,12,PF
+400950386,Golden State,J. McAdooJ. McAdooSF,10,2-3,0-1,0-2,1,1,2,0,0,0,0,1,-7,4,SF
+400950386,Golden State,A. IguodalaA. IguodalaSF,24,2-5,0-1,1-2,0,5,5,5,0,0,0,1,+1,5,SF
+400950386,Golden State,J. McGeeJ. McGeeC,10,2-4,0-0,0-1,1,2,3,0,0,3,0,4,-3,4,C
+400950386,Golden State,D. JonesD. JonesC,6,1-3,0-0,0-0,1,0,1,0,0,1,0,2,-6,2,C
+400950386,Golden State,P. McCawP. McCawPG,19,0-3,0-1,0-0,1,2,3,1,0,0,0,1,-10,0,PG
+400950386,Golden State,I. ClarkI. ClarkSG,21,1-5,0-0,2-2,0,4,4,1,0,0,1,0,-7,4,SG
+400950386,Golden State,TEAM,,46-86,17-29,19-27,6,39,45,27,7,9,10,15,,128,AM
+400950386,Golden State, ,,53.5%,58.6%,70.4%,,,,,,,,,,, 
+400950386,Portland Trail Blazers,M. LeonardM. LeonardPF,10,0-2,0-2,0-0,0,3,3,0,0,0,1,2,-14,0,PF
+400950386,Portland Trail Blazers,M. HarklessM. HarklessSF,15,0-3,0-1,2-2,1,0,1,0,1,0,0,2,-13,2,SF
+400950386,Portland Trail Blazers,D. LillardD. LillardPG,42,12-24,2-6,8-9,1,0,1,6,1,0,4,4,-31,34,PG
+400950386,Portland Trail Blazers,C. McCollumC. McCollumSG,31,2-12,0-4,2-2,0,5,5,1,0,1,2,3,-29,6,SG
+400950386,Portland Trail Blazers,E. TurnerE. TurnerSG,21,2-7,1-4,2-2,0,2,2,1,3,0,1,0,-27,7,SG
+400950386,Portland Trail Blazers,N. VonlehN. VonlehPF,33,1-2,0-0,1-2,2,12,14,0,0,1,0,2,-7,3,PF
+400950386,Portland Trail Blazers,A. AminuA. AminuSF,35,7-12,5-9,6-8,2,5,7,1,2,1,3,3,-10,25,SF
+400950386,Portland Trail Blazers,J. LaymanJ. LaymanSF,6,1-3,1-1,0-0,0,0,0,0,0,0,0,0,+3,3,SF
+400950386,Portland Trail Blazers,S. NapierS. NapierPG,17,4-11,3-7,3-4,1,1,2,2,0,0,0,3,+6,14,PG
+400950386,Portland Trail Blazers,A. CrabbeA. CrabbeSG,24,3-6,1-3,0-0,0,3,3,0,0,0,0,1,-7,7,SG
+400950386,Portland Trail Blazers,P. ConnaughtonP. ConnaughtonSG,6,1-2,0-1,0-0,0,1,1,2,0,0,0,0,+3,2,SG
+400950386,Portland Trail Blazers,T. QuartermanT. QuartermanSG,2,0-1,0-1,0-0,0,0,0,1,0,0,0,0,+1,0,SG
+400950386,Portland Trail Blazers,TEAM,,33-85,13-39,24-29,7,32,39,14,7,3,11,20,,103,AM
+400950386,Portland Trail Blazers, ,,38.8%,33.3%,82.8%,,,,,,,,,,, 
+400950417,Utah Jazz,G. HaywardG. HaywardSF,40,7-18,0-1,5-5,1,9,10,3,1,0,5,2,+7,19,SF
+400950417,Utah Jazz,J. InglesJ. InglesSF,33,2-7,1-5,3-4,0,2,2,2,2,1,1,1,-6,8,SF
+400950417,Utah Jazz,B. DiawB. DiawC,23,3-4,1-1,0-0,1,3,4,6,0,0,1,0,+0,7,C
+400950417,Utah Jazz,R. GobertR. GobertC,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0,C
+400950417,Utah Jazz,G. HillG. HillPG,37,7-13,1-2,1-2,1,3,4,2,1,0,2,5,-3,16,PG
+400950417,Utah Jazz,D. FavorsD. FavorsPF,32,7-10,0-0,1-4,2,4,6,2,0,1,2,4,+0,15,PF
+400950417,Utah Jazz,J. JohnsonJ. JohnsonSF,31,9-14,3-4,0-0,0,3,3,3,3,1,1,1,+6,21,SF
+400950417,Utah Jazz,J. WitheyJ. WitheyC,9,1-3,0-0,1-2,1,1,2,0,0,1,0,2,-2,3,C
+400950417,Utah Jazz,S. MackS. MackPG,14,0-3,0-1,0-0,0,2,2,2,0,0,0,1,+1,0,PG
+400950417,Utah Jazz,R. HoodR. HoodSG,19,2-7,2-5,2-2,0,1,1,1,0,0,0,3,+7,8,SG
+400950417,Utah Jazz,TEAM,,38-79,8-19,13-19,6,28,34,21,7,4,12,19,,97,AM
+400950417,Utah Jazz, ,,48.1%,42.1%,68.4%,,,,,,,,,,, 
+400950417,LA,L. Mbah a MouteL. Mbah a MoutePF,36,2-6,2-4,1-2,2,2,4,0,0,0,0,2,-4,7,PF
+400950417,LA,B. GriffinB. GriffinPF,43,9-21,2-3,6-6,1,6,7,3,1,0,6,2,-6,26,PF
+400950417,LA,D. JordanD. JordanC,37,4-7,0-0,2-2,3,12,15,0,1,3,2,3,+0,10,C
+400950417,LA,C. PaulC. PaulPG,37,10-19,1-4,4-4,2,5,7,11,3,0,1,3,+1,25,PG
+400950417,LA,J. RedickJ. RedickSG,27,3-6,1-3,0-1,0,1,1,2,0,0,4,3,-10,7,SG
+400950417,LA,P. PierceP. PierceSF,3,0-1,0-1,0-0,0,1,1,2,0,0,0,0,+2,0,SF
+400950417,LA,M. SpeightsM. SpeightsC,14,2-5,2-3,2-2,0,2,2,1,1,0,0,2,+0,8,C
+400950417,LA,R. FeltonR. FeltonPG,15,2-4,0-2,0-0,0,1,1,1,0,0,0,1,-5,4,PG
+400950417,LA,J. CrawfordJ. CrawfordSG,29,4-12,0-4,0-0,0,2,2,0,0,1,2,2,+12,8,SG
+400950417,LA,TEAM,,36-81,8-24,15-17,8,32,40,20,6,4,15,18,,95,AM
+400950417,LA, ,,44.4%,33.3%,88.2%,,,,,,,,,,, 
+400950414,Utah Jazz,D. FavorsD. FavorsPF,33,5-7,0-0,3-5,1,6,7,0,0,1,0,2,-11,13,PF
+400950414,Utah Jazz,G. HaywardG. HaywardSF,39,5-15,3-6,7-7,0,6,6,2,0,0,1,1,-17,20,SF
+400950414,Utah Jazz,J. InglesJ. InglesSF,33,3-5,2-3,1-2,0,6,6,3,3,0,4,3,-2,9,SF
+400950414,Utah Jazz,B. DiawB. DiawC,25,2-4,1-2,2-2,0,1,1,3,1,1,2,1,-5,7,C
+400950414,Utah Jazz,G. HillG. HillPG,37,5-12,2-6,0-0,0,7,7,4,0,0,3,3,-4,12,PG
+400950414,Utah Jazz,J. JohnsonJ. JohnsonSF,29,6-15,0-4,1-2,0,1,1,1,1,0,2,3,+1,13,SF
+400950414,Utah Jazz,J. WitheyJ. WitheyC,9,1-1,0-0,0-0,2,0,2,1,1,0,0,2,-1,2,C
+400950414,Utah Jazz,S. MackS. MackPG,11,2-4,1-1,0-0,0,1,1,1,0,0,0,0,-4,5,PG
+400950414,Utah Jazz,R. HoodR. HoodSG,25,3-7,1-3,3-4,0,2,2,0,1,0,1,1,+3,10,SG
+400950414,Utah Jazz,TEAM,,32-70,10-25,17-22,3,30,33,15,7,2,13,16,,91,AM
+400950414,Utah Jazz, ,,45.7%,40.0%,77.3%,,,,,,,,,,, 
+400950414,LA,L. Mbah a MouteL. Mbah a MoutePF,38,2-5,0-2,0-0,3,5,8,2,0,1,1,3,+15,4,PF
+400950414,LA,B. GriffinB. GriffinPF,39,11-21,1-2,1-1,1,4,5,2,0,1,0,0,+10,24,PF
+400950414,LA,D. JordanD. JordanC,35,9-11,0-0,0-3,3,12,15,0,1,1,1,6,+12,18,C
+400950414,LA,C. PaulC. PaulPG,33,9-15,3-4,0-0,0,2,2,10,3,1,5,4,+9,21,PG
+400950414,LA,J. RedickJ. RedickSG,33,2-7,0-2,0-0,0,2,2,2,2,0,1,5,+8,4,SG
+400950414,LA,P. PierceP. PierceSF,9,3-4,0-0,0-0,0,0,0,2,0,0,1,2,-2,6,SF
+400950414,LA,M. SpeightsM. SpeightsC,13,3-4,1-2,0-0,0,3,3,1,0,0,0,2,-4,7,C
+400950414,LA,R. FeltonR. FeltonPG,17,2-5,1-3,0-0,0,2,2,5,1,0,1,0,-2,5,PG
+400950414,LA,J. CrawfordJ. CrawfordSG,24,3-12,0-5,4-4,1,1,2,2,0,0,1,1,-6,10,SG
+400950414,LA,TEAM,,44-84,6-20,5-8,8,31,39,26,7,4,11,23,,99,AM
+400950414,LA, ,,52.4%,30.0%,62.5%,,,,,,,,,,, 
+400950419,LA,L. Mbah a MouteL. Mbah a MoutePF,37,6-9,1-2,2-4,3,3,6,1,1,1,0,3,+2,15,PF
+400950419,LA,B. GriffinB. GriffinPF,18,5-9,1-1,0-0,1,5,6,2,1,0,0,0,+6,11,PF
+400950419,LA,D. JordanD. JordanC,39,5-7,0-0,7-14,4,9,13,1,0,1,4,5,-6,17,C
+400950419,LA,C. PaulC. PaulPG,36,12-22,2-5,8-8,1,5,6,10,2,0,2,3,+7,34,PG
+400950419,LA,J. RedickJ. RedickSG,27,2-5,1-3,3-4,0,3,3,0,0,0,1,4,+3,8,SG
+400950419,LA,W. JohnsonW. JohnsonSF,4,0-0,0-0,0-0,0,1,1,0,0,0,0,1,-3,0,SF
+400950419,LA,P. PierceP. PierceSF,21,0-1,0-1,0-0,0,3,3,0,1,0,0,1,-4,0,SF
+400950419,LA,M. SpeightsM. SpeightsC,19,3-6,1-4,1-2,0,3,3,0,1,1,0,2,+12,8,C
+400950419,LA,R. FeltonR. FeltonPG,14,4-6,1-1,0-0,0,0,0,1,0,0,0,1,+0,9,PG
+400950419,LA,J. CrawfordJ. CrawfordSG,27,4-10,0-2,1-1,0,0,0,1,2,0,1,0,+8,9,SG
+400950419,LA,TEAM,,41-75,7-19,22-33,9,32,41,16,8,3,8,20,,111,AM
+400950419,LA, ,,54.7%,36.8%,66.7%,,,,,,,,,,, 
+400950419,Utah Jazz,D. FavorsD. FavorsPF,38,1-3,0-0,0-2,1,5,6,2,1,0,1,5,-17,2,PF
+400950419,Utah Jazz,G. HaywardG. HaywardSF,42,13-21,4-8,10-11,0,9,9,4,0,2,5,4,-5,40,SF
+400950419,Utah Jazz,J. InglesJ. InglesSF,34,3-8,3-8,0-1,0,3,3,5,1,0,1,4,-5,9,SF
+400950419,Utah Jazz,B. DiawB. DiawC,24,0-1,0-1,3-4,0,1,1,1,2,0,3,2,+3,3,C
+400950419,Utah Jazz,G. HillG. HillPG,36,9-15,4-6,4-6,1,2,3,3,1,0,0,5,-3,26,PG
+400950419,Utah Jazz,J. JohnsonJ. JohnsonSF,34,6-13,1-6,2-2,1,1,2,1,0,0,1,5,+3,15,SF
+400950419,Utah Jazz,S. MackS. MackPG,8,0-2,0-1,0-0,0,3,3,0,0,0,0,0,-4,0,PG
+400950419,Utah Jazz,R. NetoR. NetoPG,3,2-2,1-1,0-0,0,0,0,0,0,0,0,0,+3,5,PG
+400950419,Utah Jazz,R. HoodR. HoodSG,20,2-4,1-3,1-3,0,0,0,0,0,0,0,1,+0,6,SG
+400950419,Utah Jazz,TEAM,,36-69,14-34,20-29,3,24,27,16,5,2,11,26,,106,AM
+400950419,Utah Jazz, ,,52.2%,41.2%,69.0%,,,,,,,,,,, 
+400950421,LA,L. Mbah a MouteL. Mbah a MoutePF,34,1-8,0-3,3-4,0,5,5,1,3,0,1,0,-11,5,PF
+400950421,LA,D. JordanD. JordanC,37,5-8,0-1,2-6,4,6,10,1,0,0,0,3,-11,12,C
+400950421,LA,M. SpeightsM. SpeightsC,21,2-8,1-5,0-0,0,4,4,1,0,0,0,2,+2,5,C
+400950421,LA,C. PaulC. PaulPG,38,10-21,1-6,6-8,1,8,9,12,1,0,2,4,-5,27,PG
+400950421,LA,J. RedickJ. RedickSG,42,3-11,2-7,4-4,0,0,0,0,0,0,4,1,-11,12,SG
+400950421,LA,W. JohnsonW. JohnsonSF,4,0-0,0-0,1-2,0,0,0,0,0,0,0,1,-2,1,SF
+400950421,LA,P. PierceP. PierceSF,12,0-1,0-1,0-0,0,1,1,0,0,0,0,1,+7,0,SF
+400950421,LA,R. FeltonR. FeltonPG,22,3-5,2-2,3-3,0,1,1,0,3,0,0,1,-5,11,PG
+400950421,LA,J. CrawfordJ. CrawfordSG,31,9-13,5-7,2-2,1,0,1,2,1,0,2,5,+1,25,SG
+400950421,LA,TEAM,,33-75,11-32,21-29,6,25,31,17,8,0,9,18,,98,AM
+400950421,LA, ,,44.0%,34.4%,72.4%,,,,,,,,,,, 
+400950421,Utah Jazz,G. HaywardG. HaywardSF,9,1-3,1-3,0-0,0,2,2,0,0,0,1,0,-4,3,SF
+400950421,Utah Jazz,J. InglesJ. InglesSF,38,3-6,2-4,0-0,1,5,6,11,2,1,2,3,+13,8,SF
+400950421,Utah Jazz,B. DiawB. DiawC,10,0-4,0-3,0-0,1,1,2,1,1,0,2,1,+4,0,C
+400950421,Utah Jazz,R. GobertR. GobertC,24,6-6,0-0,3-4,2,11,13,1,0,2,2,1,-5,15,C
+400950421,Utah Jazz,G. HillG. HillPG,41,4-11,1-3,4-5,0,1,1,2,0,0,3,1,+14,13,PG
+400950421,Utah Jazz,D. FavorsD. FavorsPF,24,7-10,0-0,3-6,1,5,6,1,2,0,0,0,+12,17,PF
+400950421,Utah Jazz,J. JohnsonJ. JohnsonSF,35,12-17,2-3,2-2,1,4,5,5,1,0,1,3,+6,28,SF
+400950421,Utah Jazz,D. ExumD. ExumPG,12,1-1,1-1,0-0,0,0,0,1,0,0,0,1,+1,3,PG
+400950421,Utah Jazz,S. MackS. MackPG,5,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+2,0,PG
+400950421,Utah Jazz,R. NetoR. NetoPG,7,0-0,0-0,0-0,0,3,3,1,0,0,1,2,-7,0,PG
+400950421,Utah Jazz,R. HoodR. HoodSG,35,6-16,3-5,3-4,1,3,4,1,1,0,0,4,-1,18,SG
+400950421,Utah Jazz,TEAM,,40-74,10-22,15-21,7,35,42,24,7,3,12,17,,105,AM
+400950421,Utah Jazz, ,,54.1%,45.5%,71.4%,,,,,,,,,,, 
+400950423,Utah Jazz,G. HaywardG. HaywardSF,41,9-16,4-8,5-5,3,5,8,4,2,0,1,4,-1,27,SF
+400950423,Utah Jazz,J. InglesJ. InglesSF,29,0-4,0-4,0-0,0,3,3,4,0,1,0,2,-1,0,SF
+400950423,Utah Jazz,B. DiawB. DiawC,14,4-6,2-2,0-0,0,0,0,3,0,0,2,1,+1,10,C
+400950423,Utah Jazz,R. GobertR. GobertC,36,4-8,0-0,3-6,2,9,11,1,5,1,2,5,+6,11,C
+400950423,Utah Jazz,G. HillG. HillPG,36,3-12,1-7,5-5,1,4,5,7,0,0,2,3,+3,12,PG
+400950423,Utah Jazz,D. FavorsD. FavorsPF,12,2-3,0-0,0-0,0,2,2,0,1,1,1,4,-3,4,PF
+400950423,Utah Jazz,J. JohnsonJ. JohnsonSF,31,6-14,2-5,0-0,1,7,8,3,1,0,1,1,+1,14,SF
+400950423,Utah Jazz,D. ExumD. ExumPG,4,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0,PG
+400950423,Utah Jazz,R. NetoR. NetoPG,8,1-1,0-0,0-0,0,1,1,1,0,1,1,2,+5,2,PG
+400950423,Utah Jazz,R. HoodR. HoodSG,29,6-17,4-10,0-0,0,5,5,2,1,0,2,2,+7,16,SG
+400950423,Utah Jazz,TEAM,,35-81,13-36,13-16,7,36,43,25,10,4,12,24,,96,AM
+400950423,Utah Jazz, ,,43.2%,36.1%,81.3%,,,,,,,,,,, 
+400950423,LA,L. Mbah a MouteL. Mbah a MoutePF,37,1-5,1-3,4-4,0,4,4,2,3,0,1,1,-10,7,PF
+400950423,LA,D. JordanD. JordanC,40,6-8,0-0,2-5,1,11,12,1,1,1,1,4,+10,14,C
+400950423,LA,M. SpeightsM. SpeightsC,13,0-3,0-1,1-2,1,1,2,0,0,1,2,1,-10,1,C
+400950423,LA,C. PaulC. PaulPG,38,10-19,4-6,4-4,0,4,4,9,1,0,2,4,+3,28,PG
+400950423,LA,J. RedickJ. RedickSG,34,7-12,3-7,9-10,0,3,3,1,0,0,1,3,-3,26,SG
+400950423,LA,B. BassB. BassPF,4,1-3,0-0,0-0,1,0,1,0,1,0,0,0,-5,2,PF
+400950423,LA,W. JohnsonW. JohnsonSF,3,0-0,0-0,0-0,0,1,1,0,1,0,0,0,-3,0,SF
+400950423,LA,P. PierceP. PierceSF,14,2-4,2-2,0-0,0,3,3,0,0,0,2,1,+6,6,SF
+400950423,LA,A. RiversA. RiversPG,18,0-4,0-2,2-2,0,2,2,1,0,0,2,1,-4,2,PG
+400950423,LA,R. FeltonR. FeltonPG,17,0-3,0-0,2-2,0,2,2,0,0,0,1,3,-8,2,PG
+400950423,LA,J. CrawfordJ. CrawfordSG,23,2-8,0-2,0-0,0,0,0,2,0,0,1,2,+4,4,SG
+400950423,LA,TEAM,,29-69,10-23,24-29,3,31,34,16,7,2,13,20,,92,AM
+400950423,LA, ,,42.0%,43.5%,82.8%,,,,,,,,,,, 
+400950424,LA,L. Mbah a MouteL. Mbah a MoutePF,29,5-8,1-1,2-4,1,4,5,1,1,0,0,4,-9,13,PF
+400950424,LA,D. JordanD. JordanC,38,5-8,0-0,3-11,4,14,18,1,0,0,7,5,-1,13,C
+400950424,LA,C. PaulC. PaulPG,38,10-20,2-6,7-8,0,3,3,8,2,0,4,4,+0,29,PG
+400950424,LA,A. RiversA. RiversPG,35,5-10,3-7,0-0,1,3,4,0,0,1,1,3,+4,13,PG
+400950424,LA,J. RedickJ. RedickSG,21,1-4,1-2,1-1,0,1,1,1,0,0,1,1,-7,4,SG
+400950424,LA,P. PierceP. PierceSF,22,1-3,1-2,0-0,1,2,3,2,0,0,1,3,+10,3,SF
+400950424,LA,M. SpeightsM. SpeightsC,10,4-6,1-1,0-0,2,1,3,0,0,1,0,1,+6,9,C
+400950424,LA,R. FeltonR. FeltonPG,20,1-4,0-1,0-0,1,2,3,1,1,0,1,2,+3,2,PG
+400950424,LA,J. CrawfordJ. CrawfordSG,29,5-12,0-1,2-2,0,1,1,3,1,0,1,1,+19,12,SG
+400950424,LA,TEAM,,37-75,9-21,15-26,10,31,41,17,5,2,16,24,,98,AM
+400950424,LA, ,,49.3%,42.9%,57.7%,,,,,,,,,,, 
+400950424,Utah Jazz,G. HaywardG. HaywardSF,42,9-20,3-9,10-11,0,8,8,4,2,0,2,1,-3,31,SF
+400950424,Utah Jazz,J. InglesJ. InglesSF,32,0-4,0-3,0-0,1,1,2,3,2,0,0,5,+12,0,SF
+400950424,Utah Jazz,B. DiawB. DiawC,14,2-2,1-1,0-0,0,2,2,1,0,0,0,1,+13,5,C
+400950424,Utah Jazz,R. GobertR. GobertC,33,5-10,0-0,5-10,4,5,9,2,2,3,1,3,-6,15,C
+400950424,Utah Jazz,G. HillG. HillPG,32,8-13,1-2,5-9,1,4,5,3,0,1,0,3,+7,22,PG
+400950424,Utah Jazz,D. FavorsD. FavorsPF,15,1-6,0-0,0-0,2,5,7,2,2,1,0,2,+1,2,PF
+400950424,Utah Jazz,J. JohnsonJ. JohnsonSF,34,3-9,1-4,2-3,2,1,3,3,0,0,3,1,-18,9,SF
+400950424,Utah Jazz,R. NetoR. NetoPG,14,2-4,1-1,0-0,0,0,0,0,0,0,0,1,-10,5,PG
+400950424,Utah Jazz,R. HoodR. HoodSG,24,2-10,0-6,0-0,0,2,2,0,0,0,1,3,-21,4,SG
+400950424,Utah Jazz,TEAM,,32-78,7-26,22-33,10,28,38,18,8,5,7,20,,93,AM
+400950424,Utah Jazz, ,,41.0%,26.9%,66.7%,,,,,,,,,,, 
+400950426,Utah Jazz,G. HaywardG. HaywardSF,42,9-20,2-3,6-6,1,7,8,3,0,0,2,4,+13,26,SF
+400950426,Utah Jazz,J. InglesJ. InglesSF,36,4-6,2-3,2-2,0,5,5,0,4,1,0,2,+6,12,SF
+400950426,Utah Jazz,B. DiawB. DiawC,17,4-6,0-0,2-2,0,2,2,3,1,1,2,0,+9,10,C
+400950426,Utah Jazz,R. GobertR. GobertC,13,0-1,0-0,1-2,0,4,4,0,0,0,0,6,+1,1,C
+400950426,Utah Jazz,G. HillG. HillPG,35,7-13,1-2,2-2,2,2,4,5,0,0,2,3,+21,17,PG
+400950426,Utah Jazz,D. FavorsD. FavorsPF,30,8-11,0-0,1-2,4,7,11,3,1,0,0,6,+15,17,PF
+400950426,Utah Jazz,J. JohnsonJ. JohnsonSF,30,4-13,0-1,2-4,2,5,7,5,0,0,0,1,+8,10,SF
+400950426,Utah Jazz,J. WitheyJ. WitheyC,3,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-3,0,C
+400950426,Utah Jazz,D. ExumD. ExumPG,8,0-2,0-0,0-0,1,1,2,2,1,0,0,0,+4,0,PG
+400950426,Utah Jazz,S. MackS. MackPG,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0,PG
+400950426,Utah Jazz,R. NetoR. NetoPG,2,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-4,0,PG
+400950426,Utah Jazz,R. HoodR. HoodSG,20,4-6,1-3,2-3,0,3,3,1,1,0,2,1,-8,11,SG
+400950426,Utah Jazz,TEAM,,40-79,6-13,18-23,10,36,46,22,8,2,8,24,,104,AM
+400950426,Utah Jazz, ,,50.6%,46.2%,78.3%,,,,,,,,,,, 
+400950426,LA,L. Mbah a MouteL. Mbah a MoutePF,15,0-2,0-1,2-2,1,1,2,0,0,2,0,3,-9,2,PF
+400950426,LA,D. JordanD. JordanC,40,9-12,0-0,6-15,6,12,18,1,0,0,2,3,-16,24,C
+400950426,LA,C. PaulC. PaulPG,40,6-19,1-7,0-1,0,4,4,9,0,0,3,2,-10,13,PG
+400950426,LA,A. RiversA. RiversPG,38,4-12,1-4,0-0,0,2,2,1,1,0,2,2,-12,9,PG
+400950426,LA,J. RedickJ. RedickSG,22,1-5,1-2,0-0,0,2,2,0,0,0,1,0,-16,3,SG
+400950426,LA,P. PierceP. PierceSF,22,2-4,1-3,1-1,1,2,3,1,1,0,0,3,-7,6,SF
+400950426,LA,M. SpeightsM. SpeightsC,9,2-5,1-4,3-4,1,2,3,0,0,0,1,3,+3,8,C
+400950426,LA,R. FeltonR. FeltonPG,24,3-5,0-0,0-0,1,0,1,2,1,0,0,2,+5,6,PG
+400950426,LA,J. CrawfordJ. CrawfordSG,32,8-16,1-4,3-3,0,3,3,3,0,0,1,1,-3,20,SG
+400950426,LA,TEAM,,35-80,6-25,15-26,10,28,38,17,3,2,10,19,,91,AM
+400950426,LA, ,,43.8%,24.0%,57.7%,,,,,,,,,,, 
+400952553,Utah Jazz,G. HaywardG. HaywardSF,35,4-15,2-9,2-2,0,4,4,4,2,1,1,2,-7,12,SF
+400952553,Utah Jazz,J. JohnsonJ. JohnsonSF,22,4-10,3-6,0-0,1,4,5,2,0,0,2,2,-15,11,SF
+400952553,Utah Jazz,J. InglesJ. InglesSF,23,2-5,1-3,0-0,0,2,2,4,0,0,2,0,-12,5,SF
+400952553,Utah Jazz,R. GobertR. GobertC,31,5-7,0-0,3-6,2,6,8,3,1,2,2,3,-3,13,C
+400952553,Utah Jazz,G. HillG. HillPG,28,3-9,1-3,0-0,2,2,4,3,0,0,1,2,-15,7,PG
+400952553,Utah Jazz,T. LylesT. LylesPF,6,3-4,1-2,0-0,0,1,1,1,1,0,1,1,+7,7,PF
+400952553,Utah Jazz,J. BolomboyJ. BolomboyPF,5,2-2,0-0,0-0,0,1,1,0,0,0,0,0,+8,4,PF
+400952553,Utah Jazz,D. FavorsD. FavorsPF,12,2-5,0-0,0-0,2,3,5,0,0,0,0,0,-17,4,PF
+400952553,Utah Jazz,B. DiawB. DiawC,20,1-2,0-0,2-2,1,1,2,1,1,1,2,2,-4,4,C
+400952553,Utah Jazz,D. ExumD. ExumPG,12,3-3,1-1,0-0,0,0,0,2,1,0,0,0,-6,7,PG
+400952553,Utah Jazz,S. MackS. MackPG,21,2-7,0-1,2-2,0,7,7,4,1,0,1,1,-1,6,PG
+400952553,Utah Jazz,R. NetoR. NetoPG,3,1-1,0-0,0-0,0,0,0,0,0,0,0,0,+6,2,PG
+400952553,Utah Jazz,R. HoodR. HoodSG,23,6-12,0-4,0-0,0,5,5,1,0,0,1,5,-1,12,SG
+400952553,Utah Jazz,TEAM,,38-82,9-29,9-12,8,36,44,25,7,4,13,18,,94,AM
+400952553,Utah Jazz, ,,46.3%,31.0%,75.0%,,,,,,,,,,, 
+400952553,Golden State,D. GreenD. GreenPF,34,5-10,2-5,5-7,0,8,8,6,2,2,0,2,+19,17,PF
+400952553,Golden State,K. DurantK. DurantSF,31,7-17,1-2,2-2,1,4,5,5,1,0,1,2,+2,17,SF
+400952553,Golden State,Z. PachuliaZ. PachuliaC,14,3-4,0-0,4-4,0,1,1,0,0,1,1,2,+6,10,C
+400952553,Golden State,S. CurryS. CurryPG,30,7-11,1-4,7-7,1,6,7,5,1,0,4,1,+5,22,PG
+400952553,Golden State,K. ThompsonK. ThompsonSG,31,6-13,3-8,0-0,0,2,2,2,0,0,0,2,+23,15,SG
+400952553,Golden State,D. WestD. WestPF,18,2-3,0-0,0-0,0,4,4,7,1,2,0,1,+14,4,PF
+400952553,Golden State,M. BarnesM. BarnesSF,4,0-1,0-0,0-0,0,0,0,1,0,0,0,1,-5,0,SF
+400952553,Golden State,J. McAdooJ. McAdooSF,3,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-6,0,SF
+400952553,Golden State,A. IguodalaA. IguodalaSF,24,2-8,0-6,0-0,1,2,3,5,1,1,0,3,+9,4,SF
+400952553,Golden State,J. McGeeJ. McGeeC,10,1-2,0-0,0-0,0,0,0,0,0,1,0,0,-1,2,C
+400952553,Golden State,P. McCawP. McCawPG,3,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-6,0,PG
+400952553,Golden State,S. LivingstonS. LivingstonPG,20,4-5,0-0,1-1,2,3,5,1,1,1,1,2,-7,9,PG
+400952553,Golden State,I. ClarkI. ClarkSG,18,3-6,0-2,0-0,0,2,2,0,0,0,0,0,+7,6,SG
+400952553,Golden State,TEAM,,40-82,7-29,19-21,5,32,37,32,7,8,7,16,,106,AM
+400952553,Golden State, ,,48.8%,24.1%,90.5%,,,,,,,,,,, 

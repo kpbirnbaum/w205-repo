@@ -1,0 +1,7 @@
+2017-04-23 22:10:11,596 - streamparse.storm.component - ERROR - Exception in ParseTweet.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse-2.1.4-py2.7.egg/streamparse/storm/component.py", line 487, in run
+    self.initialize(storm_conf, context)
+  File "bolts/parse.py", line 20, in initialize
+    self.counts = Counter()
+NameError: global name 'Counter' is not defined

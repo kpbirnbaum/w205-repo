@@ -1,0 +1,9 @@
+2017-04-23 22:11:19,562 - streamparse.storm.component - ERROR - Exception in Tweets.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse-2.1.4-py2.7.egg/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse-2.1.4-py2.7.egg/streamparse/storm/spout.py", line 150, in _run
+    self.next_tuple()
+  File "/usr/lib/python2.7/site-packages/streamparse-2.1.4-py2.7.egg/streamparse/storm/spout.py", line 69, in next_tuple
+    raise NotImplementedError()
+NotImplementedError

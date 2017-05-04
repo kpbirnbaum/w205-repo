@@ -1,0 +1,50 @@
+id,date,home_team,visit_team,home_team_score,visit_team_score
+400950314,2017-04-16,Boston,Chicago Bulls,102,106
+400950321,2017-04-18,Boston,Chicago Bulls,97,111
+400950323,2017-04-21,Chicago Bulls,Boston,87,104
+400950325,2017-04-23,Chicago Bulls,Boston,95,104
+400950387,2017-04-26,Boston,Chicago Bulls,108,97
+400950389,2017-04-28,Chicago Bulls,Boston,83,105
+400952462,2017-05-01,Cleveland Cavaliers,Toronto,116,105
+400950315,2017-04-15,Cleveland,Indiana Pacers,109,108
+400950394,2017-04-17,Cleveland,Indiana Pacers,117,111
+400950396,2017-04-20,Indiana Pacers,Cleveland,114,119
+400950399,2017-04-23,Indiana Pacers,Cleveland,102,106
+400950316,2017-04-15,Toronto,Milwaukee Bucks,83,97
+400950408,2017-04-18,Toronto,Milwaukee Bucks,106,100
+400950410,2017-04-20,Milwaukee Bucks,Toronto,104,77
+400950413,2017-04-22,Milwaukee Bucks,Toronto,76,87
+400950415,2017-04-24,Toronto,Milwaukee Bucks,118,93
+400950416,2017-04-27,Milwaukee Bucks,Toronto,89,92
+400950319,2017-04-15,San Antonio Spurs,Memphis,111,82
+400950393,2017-04-17,San Antonio Spurs,Memphis,96,82
+400950395,2017-04-20,Memphis,San Antonio Spurs,105,94
+400950397,2017-04-22,Memphis,San Antonio Spurs,110,108
+400950398,2017-04-25,San Antonio Spurs,Memphis,116,103
+400950400,2017-04-27,Memphis,San Antonio Spurs,96,103
+400952490,2017-05-01,San Antonio Spurs,Houston,99,126
+400950317,2017-04-16,Washington Wizards,Atlanta,114,107
+400950420,2017-04-19,Washington Wizards,Atlanta,109,101
+400950422,2017-04-22,Atlanta,Washington Wizards,116,98
+400950425,2017-04-24,Atlanta,Washington Wizards,111,101
+400950427,2017-04-26,Washington Wizards,Atlanta,103,99
+400950428,2017-04-28,Atlanta,Washington Wizards,99,115
+400952526,2017-04-30,Boston,Washington Wizards,123,111
+400952527,2017-05-02,Boston,Washington Wizards,129,119
+400950320,2017-04-16,Houston,Oklahoma City Thunder,118,87
+400950404,2017-04-19,Houston,Oklahoma City Thunder,115,111
+400950406,2017-04-21,Oklahoma City Thunder,Houston,115,113
+400950407,2017-04-23,Oklahoma City Thunder,Houston,109,113
+400950409,2017-04-25,Houston,Oklahoma City Thunder,105,99
+400950318,2017-04-16,Golden State,Portland Trail Blazers,121,109
+400950322,2017-04-19,Golden State,Portland Trail Blazers,110,81
+400950324,2017-04-22,Portland Trail Blazers,Golden State,113,119
+400950386,2017-04-24,Portland Trail Blazers,Golden State,103,128
+400950417,2017-04-15,LA,Utah Jazz,95,97
+400950414,2017-04-18,LA,Utah Jazz,99,91
+400950419,2017-04-21,Utah Jazz,LA,106,111
+400950421,2017-04-23,Utah Jazz,LA,105,98
+400950423,2017-04-25,LA,Utah Jazz,92,96
+400950424,2017-04-28,Utah Jazz,LA,93,98
+400950426,2017-04-30,LA,Utah Jazz,91,104
+400952553,2017-05-02,Golden State,Utah Jazz,106,94
